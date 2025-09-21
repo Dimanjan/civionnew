@@ -1,0 +1,32 @@
+{
+  "id": "set_8",
+  "title": "Question Set 8",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Technology",
+      "question": "When was the first mobile phone service launched in Nepal?",
+      "options": [
+        "1997 AD",
+        "1998 AD",
+        "1999 AD",
+        "2000 AD"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The first mobile phone service was launched in Nepal in 1999 AD by Nepal Telecom (NTC)."
+    },
+    {
+      "id": 2,
+      "category": "Health",
+      "question": "What is the life expectancy in Nepal as of recent data?",
+      "options": [
+        "Around 65 years",
+        "Around 70 years",
+        "Around 75 years",
+        "Around 80 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The life expectancy in Nepal is around 70 years, showing significant improvement over the past decades."
+    }
+  ]
+} 

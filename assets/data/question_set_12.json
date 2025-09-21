@@ -1,0 +1,266 @@
+{
+  "id": "set_12",
+  "title": "General Knowledge & Aptitude Test (Nepal)",
+  "questions": [
+    {
+      "id": 1,
+      "category": "General Knowledge",
+      "question": "Who is the author of the famous Nepali novel 'Muna Madan'?",
+      "options": [
+        "Bhanubhakta Acharya",
+        "Laxmi Prasad Devkota",
+        "Parijat",
+        "Shankar Lamichhane"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Laxmi Prasad Devkota, revered as the 'Mahakavi' of Nepali literature, is the author of the epic narrative poem 'Muna Madan'."
+    },
+    {
+      "id": 2,
+      "category": "General Knowledge",
+      "question": "Which is the largest National Park in Nepal by area?",
+      "options": [
+        "Chitwan National Park",
+        "Sagarmatha National Park",
+        "Shey Phoksundo National Park",
+        "Bardia National Park"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Shey Phoksundo National Park is the largest national park in Nepal, covering an area of 3,555 square kilometers."
+    },
+    {
+      "id": 3,
+      "category": "General Knowledge",
+      "question": "The historic 'Kot Parva' (Kot Massacre) took place in which year?",
+      "options": [
+        "1903 BS",
+        "1899 BS",
+        "1910 BS",
+        "1905 BS"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Kot Massacre, a pivotal event in Nepali history that led to the rise of the Rana dynasty, occurred in 1903 Bikram Sambat (1846 AD)."
+    },
+    {
+      "id": 4,
+      "category": "General Knowledge",
+      "question": "How many articles are there in the current Constitution of Nepal, promulgated in 2015 AD (2072 BS)?",
+      "options": [
+        "295",
+        "308",
+        "350",
+        "275"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Constitution of Nepal (2015) consists of 308 articles, 35 parts, and 9 schedules."
+    },
+    {
+      "id": 5,
+      "category": "General Knowledge",
+      "question": "Which lake in Nepal is also known as 'Ba E Saara' in the Tibetan language?",
+      "options": [
+        "Rara Lake",
+        "Phewa Lake",
+        "Tilicho Lake",
+        "Gosaikunda"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Rara Lake, the biggest lake in Nepal, is known as 'Ba E Saara' in the Tibetan language."
+    },
+    {
+      "id": 6,
+      "category": "Logical Reasoning",
+      "question": "Find the next number in the series: 5, 11, 23, 47, ?",
+      "options": [
+        "92",
+        "95",
+        "96",
+        "99"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The pattern is (current number × 2) + 1. For example, (5 × 2) + 1 = 11. Following this, (47 × 2) + 1 = 95."
+    },
+    {
+      "id": 7,
+      "category": "Logical Reasoning",
+      "question": "If 'ROSE' is coded as 'TQVG', how will 'BLUE' be coded?",
+      "options": [
+        "DNWG",
+        "CNVF",
+        "DMWG",
+        "CMVF"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Each letter in the word is moved two steps forward in the alphabet. R+2=T, O+2=Q, S+2=U, E+2=G. So, B+2=D, L+2=N, U+2=W, E+2=G."
+    },
+    {
+      "id": 8,
+      "category": "Logical Reasoning",
+      "question": "Which of the following cities is different from the rest?",
+      "options": [
+        "Pokhara",
+        "Kathmandu",
+        "Biratnagar",
+        "Lumbini"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Pokhara, Kathmandu, and Biratnagar are major administrative and economic hubs designated as Metropolitan Cities. Lumbini is primarily a historical and religious site (a municipality)."
+    },
+    {
+      "id": 9,
+      "category": "Logical Reasoning",
+      "question": "A man walks 10 km North. He turns right and walks 20 km. Then he turns right again and walks 10 km. How far is he from his starting point?",
+      "options": [
+        "10 km",
+        "20 km",
+        "30 km",
+        "40 km"
+      ],
+      "correctAnswer": 1,
+      "explanation": "He walks 10km North and then 10km South, so his North-South displacement is zero. He only moved 20 km to the East (right from North)."
+    },
+    {
+      "id": 10,
+      "category": "Logical Reasoning",
+      "question": "Cattle is to Herd as Sheep is to ____?",
+      "options": [
+        "Swarm",
+        "Pack",
+        "Flock",
+        "Gang"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A 'Herd' is a collective noun for cattle, and a 'Flock' is the collective noun for sheep."
+    },
+    {
+      "id": 11,
+      "category": "Quantitative Aptitude",
+      "question": "A man buys a pen for Rs. 80 and sells it for Rs. 100. What is his gain percent?",
+      "options": [
+        "20%",
+        "25%",
+        "15%",
+        "30%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gain = Selling Price - Cost Price = 100 - 80 = Rs. 20. Gain Percent = (Gain / Cost Price) × 100 = (20 / 80) × 100 = 25%."
+    },
+    {
+      "id": 12,
+      "category": "Quantitative Aptitude",
+      "question": "The average age of a class of 30 students is 14 years. If the teacher's age is included, the average becomes 15 years. What is the teacher's age?",
+      "options": [
+        "45 years",
+        "44 years",
+        "46 years",
+        "47 years"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Total age of students = 30 × 14 = 420. Total age with teacher = 31 × 15 = 465. The teacher's age is the difference: 465 - 420 = 45 years."
+    },
+    {
+      "id": 13,
+      "category": "Quantitative Aptitude",
+      "question": "Two numbers are in the ratio 3:5. If 9 is subtracted from each, the new ratio is 12:23. The smaller number is:",
+      "options": [
+        "27",
+        "33",
+        "49",
+        "55"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Let numbers be 3x and 5x. (3x-9)/(5x-9) = 12/23. This gives 69x - 207 = 60x - 108. Solving for x, we get 9x = 99, so x = 11. The smaller number is 3x = 3 × 11 = 33."
+    },
+    {
+      "id": 14,
+      "category": "Quantitative Aptitude",
+      "question": "At what rate of simple interest per annum will a sum of money double itself in 8 years?",
+      "options": [
+        "10%",
+        "12%",
+        "12.5%",
+        "15%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "To double, the interest must equal the principal (Interest = P). Using the formula R = (SI × 100) / (P × T), we get R = (P × 100) / (P × 8) = 100 / 8 = 12.5%."
+    },
+    {
+      "id": 15,
+      "category": "Quantitative Aptitude",
+      "question": "If the perimeter of a square is 40 cm, what is its area?",
+      "options": [
+        "100 sq. cm",
+        "160 sq. cm",
+        "80 sq. cm",
+        "120 sq. cm"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Perimeter of a square = 4 × side. So, side = 40 / 4 = 10 cm. Area of a square = side × side = 10 × 10 = 100 sq. cm."
+    },
+    {
+      "id": 16,
+      "category": "English Comprehension",
+      "question": "Choose the word opposite in meaning to 'VIRTUE'.",
+      "options": [
+        "Goodness",
+        "Vice",
+        "Merit",
+        "Honesty"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Virtue refers to moral excellence or goodness. Vice is the direct opposite, referring to immoral or wicked behavior."
+    },
+    {
+      "id": 17,
+      "category": "English Comprehension",
+      "question": "Select the correct preposition: He is senior ___ me by two years.",
+      "options": [
+        "than",
+        "to",
+        "from",
+        "over"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Adjectives like 'senior', 'junior', 'superior', 'inferior' are followed by the preposition 'to', not 'than'."
+    },
+    {
+      "id": 18,
+      "category": "Nepali Language",
+      "question": "Complete the Nepali proverb (उखान): 'नाच्न नजान्ने...'",
+      "options": [
+        "आँगन टेढो",
+        "गीत नमीठो",
+        "खुट्टा लङ्गडॊ",
+        "साथी खराब"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The full proverb is 'नाच्न नजान्ने आँगन टेढो', which translates to 'One who cannot dance claims the courtyard is crooked'. It is the Nepali equivalent of 'A bad workman blames his tools'."
+    },
+    {
+      "id": 19,
+      "category": "Nepali Language",
+      "question": "In the sentence 'रामले भात खायो।', what is the grammatical case (कारक) of 'रामले'?",
+      "options": [
+        "कर्म कारक (Object)",
+        "कर्ता कारक (Subject)",
+        "करण कारक (Instrument)",
+        "सम्प्रदान कारक (Dative)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'कर्ता कारक' (Karta Karak) represents the subject or doer of the action. The suffix 'ले' marks the subject in sentences with transitive verbs in the past tense."
+    },
+    {
+      "id": 20,
+      "category": "English Comprehension",
+      "question": "What is the synonym of 'PRUDENT'?",
+      "options": [
+        "Careless",
+        "Wasteful",
+        "Cautious",
+        "Rude"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Prudent means acting with or showing care and thought for the future. Cautious is the closest synonym."
+    }
+  ]
+}

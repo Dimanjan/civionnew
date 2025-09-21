@@ -1,0 +1,266 @@
+{
+  "id": "set_20",
+  "title": "General Knowledge & Aptitude Test (Nepal) - Set 9",
+  "questions": [
+    {
+      "id": 1,
+      "category": "General Knowledge",
+      "question": "Who is officially recognized as the first martyr (shahid) of Nepal?",
+      "options": [
+        "Ganga Lal Shrestha",
+        "Dashrath Chand",
+        "Lakhan Thapa Magar",
+        "Dharma Bhakta Mathema"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lakhan Thapa Magar, who led a rebellion against the Rana regime, was executed in 1877 AD and is officially recognized by the Government of Nepal as the country's first martyr."
+    },
+    {
+      "id": 2,
+      "category": "General Knowledge",
+      "question": "Sagarmatha National Park, home to Mount Everest, was listed as a UNESCO World Heritage Site in which year?",
+      "options": [
+        "1976",
+        "1979",
+        "1984",
+        "1997"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sagarmatha National Park was established in 1976 and was inscribed as a Natural World Heritage Site in 1979 for its dramatic mountains, glaciers, and deep valleys."
+    },
+    {
+      "id": 3,
+      "category": "General Knowledge",
+      "question": "According to the 2011 census, which is the second most spoken mother tongue in Nepal after Nepali?",
+      "options": [
+        "Bhojpuri",
+        "Maithili",
+        "Tharu",
+        "Tamang"
+      ],
+      "correctAnswer": 1,
+      "explanation": "While Nepali is the most spoken language, Maithili, primarily spoken in the eastern Terai region, is the second most common mother tongue in Nepal."
+    },
+    {
+      "id": 4,
+      "category": "General Knowledge",
+      "question": "What is the total number of Metropolitan Cities (Mahanagarpalika) in Nepal?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 2,
+      "explanation": "As of 2024, Nepal has six Metropolitan Cities: Kathmandu, Lalitpur, Pokhara, Bharatpur, Biratnagar, and Birgunj."
+    },
+    {
+      "id": 5,
+      "category": "General Knowledge",
+      "question": "What is the chemical symbol for the element Gold?",
+      "options": [
+        "Ag",
+        "Au",
+        "Gd",
+        "Go"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The chemical symbol for Gold is Au, which comes from its Latin name, 'aurum'. Ag is the symbol for Silver."
+    },
+    {
+      "id": 6,
+      "category": "Logical Reasoning",
+      "question": "Find the next term in the series: 1, 1, 2, 3, 5, 8, 13, ?",
+      "options": [
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This is the Fibonacci sequence, where each number is the sum of the two preceding ones. The next number is 8 + 13 = 21."
+    },
+    {
+      "id": 7,
+      "category": "Logical Reasoning",
+      "question": "In a certain code, 'FRIEND' is written as 'HTKGPF'. How is 'CANDLE' written in that code?",
+      "options": [
+        "ECPFNF",
+        "ECPFNG",
+        "ECFPNG",
+        "ECPDMF"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The pattern is to move each letter two positions forward in the alphabet. F+2=H, R+2=T, I+2=K, E+2=G, N+2=P, D+2=F. Following this, C+2=E, A+2=C, N+2=P, D+2=F, L+2=N, E+2=G."
+    },
+    {
+      "id": 8,
+      "category": "Logical Reasoning",
+      "question": "Dog is to Bark as Goat is to ____?",
+      "options": [
+        "Bleat",
+        "Howl",
+        "Grunt",
+        "Neigh"
+      ],
+      "correctAnswer": 0,
+      "explanation": "This is an analogy of an animal and the sound it makes. The characteristic sound made by a goat is a bleat."
+    },
+    {
+      "id": 9,
+      "category": "Logical Reasoning",
+      "question": "Pointing to a woman, a man says, 'She is the daughter of the only child of my grandmother.' How is the woman related to the man?",
+      "options": [
+        "Sister",
+        "Mother",
+        "Aunt",
+        "Daughter"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The 'only child of my grandmother' is the man's own parent (either his father or mother). The 'daughter' of his parent is his sister."
+    },
+    {
+      "id": 10,
+      "category": "Logical Reasoning",
+      "question": "Which of the following geometric figures is the odd one out?",
+      "options": [
+        "Triangle",
+        "Rectangle",
+        "Circle",
+        "Cube"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The cube is a three-dimensional (3D) shape, whereas the triangle, rectangle, and circle are all two-dimensional (2D) shapes."
+    },
+    {
+      "id": 11,
+      "category": "Quantitative Aptitude",
+      "question": "Due to a 25% reduction in the price of rice, a person can buy 5 kg more for Rs. 240. What was the original price of rice per kg?",
+      "options": [
+        "Rs. 12",
+        "Rs. 15",
+        "Rs. 16",
+        "Rs. 20"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The total price reduction is 25% of Rs. 240 = Rs. 60. This amount allows the purchase of 5 kg more rice. So, the new (reduced) price is Rs. 60 / 5 kg = Rs. 12/kg. Since this is the price after a 25% reduction, it is 75% of the original price. Original Price = 12 / 0.75 = Rs. 16/kg."
+    },
+    {
+      "id": 12,
+      "category": "Quantitative Aptitude",
+      "question": "A shopkeeper uses a weight of 900 gm instead of 1 kg. What is his actual gain percent?",
+      "options": [
+        "10%",
+        "11.11%",
+        "12.5%",
+        "15%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The shopkeeper gains 100 gm on every 900 gm he sells. Gain % = (Gain / Actual Weight) × 100 = (100 / 900) × 100 = 11.11%."
+    },
+    {
+      "id": 13,
+      "category": "Quantitative Aptitude",
+      "question": "The simple interest on a certain sum for 2 years at 8% per annum is Rs. 160. What is the sum (principal)?",
+      "options": [
+        "Rs. 800",
+        "Rs. 1000",
+        "Rs. 1200",
+        "Rs. 1500"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Using the formula Principal = (Simple Interest × 100) / (Rate × Time), we get Principal = (160 × 100) / (8 × 2) = 16000 / 16 = Rs. 1000."
+    },
+    {
+      "id": 14,
+      "category": "Quantitative Aptitude",
+      "question": "The average of 7 consecutive numbers is 20. The largest of these numbers is:",
+      "options": [
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "correctAnswer": 3,
+      "explanation": "For an odd number of consecutive terms, the average is the middle term. So, the 4th number is 20. The seven numbers are 17, 18, 19, 20, 21, 22, 23. The largest is 23."
+    },
+    {
+      "id": 15,
+      "category": "Quantitative Aptitude",
+      "question": "Two trains of length 120 m and 80 m are running in the same direction with speeds of 40 km/hr and 50 km/hr. How long will it take the faster train to cross the slower one?",
+      "options": [
+        "60 seconds",
+        "72 seconds",
+        "80 seconds",
+        "90 seconds"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Total distance to cover is the sum of their lengths: 120 + 80 = 200 m. Relative speed in the same direction is the difference: 50 - 40 = 10 km/hr. Convert speed to m/s: 10 × (5/18) = 25/9 m/s. Time = Distance / Speed = 200 / (25/9) = (200 × 9) / 25 = 72 seconds."
+    },
+    {
+      "id": 16,
+      "category": "English Comprehension",
+      "question": "A group of lions is called a ___.",
+      "options": [
+        "herd",
+        "pack",
+        "pride",
+        "flock"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The collective noun for a group of lions is a 'pride'. A 'herd' is for cattle, a 'pack' is for wolves, and a 'flock' is for sheep or birds."
+    },
+    {
+      "id": 17,
+      "category": "English Comprehension",
+      "question": "A 'philanthropist' is a person who:",
+      "options": [
+        "loves to read books.",
+        "studies and collects stamps.",
+        "seeks to promote the welfare of others.",
+        "is an expert in art and culture."
+      ],
+      "correctAnswer": 2,
+      "explanation": "A philanthropist is someone who donates time, money, experience, skills, or talent to help create a better world, demonstrating a love for humanity."
+    },
+    {
+      "id": 18,
+      "category": "English Comprehension",
+      "question": "Choose the word that is an antonym for 'ACCELERATE'.",
+      "options": [
+        "Hurry",
+        "Quicken",
+        "Decelerate",
+        "Expedite"
+      ],
+      "correctAnswer": 2,
+      "explanation": "To 'accelerate' means to increase speed. 'Decelerate' means to reduce speed, making it the direct opposite. The other options are synonyms."
+    },
+    {
+      "id": 19,
+      "category": "Nepali Language",
+      "question": "Complete the Nepali proverb (उखान): 'होलान् भन्ने...'",
+      "options": [
+        "फेरि आउलान्।",
+        "घर छोडेर जालान्।",
+        "दिनका सपना।",
+        "हातमा दही जम्दैन।"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The full proverb is 'होलान् भन्ने दिनका सपना', which literally means 'The hope that things will be is a daydream'. It is used to describe wishful thinking or building castles in the air."
+    },
+    {
+      "id": 20,
+      "category": "Nepali Language",
+      "question": "What is the root verb (धातु) of the word 'खायो' (khayo)?",
+      "options": [
+        "खानु (khanu)",
+        "खा (kha)",
+        "खाय (khaya)",
+        "खान (khan)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The root verb or 'धातु' (dhatu) is the most basic form of a verb from which other forms are derived. For 'खायो' (ate), the root is 'खा' (kha - eat)."
+    }
+  ]
+}

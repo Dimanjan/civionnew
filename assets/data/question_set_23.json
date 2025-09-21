@@ -1,0 +1,266 @@
+{
+  "id": "set_23",
+  "title": "General Knowledge & Aptitude Test (Nepal) - Set 12",
+  "questions": [
+    {
+      "id": 1,
+      "category": "General Knowledge",
+      "question": "The 'Library Parva' (Library Incident) of 1930 AD, where a group of youths were punished for attempting to open a public library, was a movement against which regime?",
+      "options": [
+        "Malla Dynasty",
+        "Shah Dynasty",
+        "Rana Regime",
+        "Panchayat System"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Library Parva was a significant event where 45 youths were arrested and fined for trying to establish a library, highlighting the repressive nature of the Rana Regime towards education and intellectual awakening."
+    },
+    {
+      "id": 2,
+      "category": "General Knowledge",
+      "question": "Which is the longest river in Nepal?",
+      "options": [
+        "Koshi",
+        "Gandaki",
+        "Karnali",
+        "Bagmati"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Karnali is the longest river in Nepal, with a total length of about 507 kilometers within the country's borders."
+    },
+    {
+      "id": 3,
+      "category": "General Knowledge",
+      "question": "Who is the author of the Madan Puraskar-winning epic Nepali novel 'Shirishko Phool' (The Blue Mimosa)?",
+      "options": [
+        "Laxmi Prasad Devkota",
+        "Parijat",
+        "Shankar Lamichhane",
+        "B.P. Koirala"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Parijat (Bishnu Kumari Waiba) is the acclaimed author of 'Shirishko Phool', a landmark novel in Nepali literature that won the Madan Puraskar in 1965 AD (2022 BS)."
+    },
+    {
+      "id": 4,
+      "category": "General Knowledge",
+      "question": "Which is the largest province of Nepal by geographical area?",
+      "options": [
+        "Bagmati Province",
+        "Gandaki Province",
+        "Lumbini Province",
+        "Karnali Province"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Karnali Province, covering the mountainous north-western part of the country, is the largest province in Nepal in terms of area, although it is the most sparsely populated."
+    },
+    {
+      "id": 5,
+      "category": "General Knowledge",
+      "question": "The headquarters of UNICEF (United Nations Children's Fund) is located in which city?",
+      "options": [
+        "Geneva",
+        "New York",
+        "Paris",
+        "Rome"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The headquarters of UNICEF, a United Nations agency responsible for providing humanitarian and developmental aid to children worldwide, is located in New York City, USA."
+    },
+    {
+      "id": 6,
+      "category": "Logical Reasoning",
+      "question": "Find the next number in the series: 1, 9, 25, 49, 81, ?",
+      "options": [
+        "100",
+        "111",
+        "121",
+        "144"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The series consists of the squares of consecutive odd numbers: 1², 3², 5², 7², 9². The next odd number is 11, and its square is 121."
+    },
+    {
+      "id": 7,
+      "category": "Logical Reasoning",
+      "question": "If 'EARTH' is coded as 'QPMZS', how is 'HEART' coded?",
+      "options": [
+        "SQPZM",
+        "SQPMZ",
+        "SQMPZ",
+        "SPQZM"
+      ],
+      "correctAnswer": 0,
+      "explanation": "This is a direct substitution code where each letter in 'EARTH' corresponds to a letter in 'QPMZS'. E=Q, A=P, R=M, T=Z, H=S. Rearranging these for 'HEART' gives SQPZM."
+    },
+    {
+      "id": 8,
+      "category": "Logical Reasoning",
+      "question": "Bird is to Aviary as Bee is to ____?",
+      "options": [
+        "Aquarium",
+        "Hive",
+        "Stable",
+        "Den"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This is an analogy of a creature and its man-made or natural dwelling. An aviary is a large enclosure where birds are kept, and a hive is where bees live."
+    },
+    {
+      "id": 9,
+      "category": "Logical Reasoning",
+      "question": "Which of the following is the odd one out?",
+      "options": [
+        "Kilo",
+        "Gram",
+        "Centi",
+        "Milli"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kilo, Centi, and Milli are all metric prefixes used to denote multiples or fractions of a base unit. Gram is a base unit of mass itself."
+    },
+    {
+      "id": 10,
+      "category": "Logical Reasoning",
+      "question": "Which Venn diagram best represents: Doctors, Surgeons, Men?",
+      "options": [
+        "One circle inside another, with a third overlapping both",
+        "Two separate circles inside a larger circle",
+        "Three overlapping circles",
+        "One circle inside another, separate from a third circle"
+      ],
+      "correctAnswer": 0,
+      "explanation": "All Surgeons are Doctors, so the 'Surgeons' circle is inside the 'Doctors' circle. The 'Men' circle overlaps both, as some men are doctors and some of those doctors are also surgeons."
+    },
+    {
+      "id": 11,
+      "category": "Quantitative Aptitude",
+      "question": "If the price of a book is first decreased by 25% and then increased by 20%, what is the net change in its price?",
+      "options": [
+        "No change",
+        "5% decrease",
+        "10% increase",
+        "10% decrease"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Let the original price be 100. After a 25% decrease, the price becomes 75. A 20% increase on 75 is (20/100) * 75 = 15. The final price is 75 + 15 = 90. The net change from the original 100 is a 10% decrease."
+    },
+    {
+      "id": 12,
+      "category": "Quantitative Aptitude",
+      "question": "A man took a loan from a bank at 12% p.a. simple interest. After 3 years, he had to pay Rs. 5400 as interest. What was the principal amount?",
+      "options": [
+        "Rs. 2000",
+        "Rs. 10000",
+        "Rs. 15000",
+        "Rs. 20000"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Using the formula Principal = (Simple Interest × 100) / (Rate × Time), we get Principal = (5400 × 100) / (12 × 3) = 540000 / 36 = Rs. 15,000."
+    },
+    {
+      "id": 13,
+      "category": "Quantitative Aptitude",
+      "question": "A man walking at 5 km/hr crosses a bridge in 15 minutes. The length of the bridge in metres is:",
+      "options": [
+        "600",
+        "750",
+        "1000",
+        "1250"
+      ],
+      "correctAnswer": 3,
+      "explanation": "First, convert units. Speed = 5 km/hr = 5 * (1000 m / 3600 s) = 25/18 m/s. Time = 15 minutes = 15 * 60 = 900 seconds. Distance (Length) = Speed × Time = (25/18) × 900 = 1250 metres."
+    },
+    {
+      "id": 14,
+      "category": "Quantitative Aptitude",
+      "question": "The present average age of a family of a husband, wife, and a child is 20 years. Four years ago, the average age of the husband and wife at their marriage was 25 years. What is the present age of the child?",
+      "options": [
+        "1 year",
+        "2 years",
+        "2.5 years",
+        "3 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "At marriage 4 years ago, the sum of the couple's ages was 2 × 25 = 50. Their present combined age is 50 + 4 + 4 = 58 years. The present total age of the family of three is 3 × 20 = 60 years. Therefore, the child's age is 60 - 58 = 2 years."
+    },
+    {
+      "id": 15,
+      "category": "Quantitative Aptitude",
+      "question": "A shopkeeper sold an item for Rs. 450 after a 10% discount. If he had sold it at the marked price, his gain would have been 25%. What is the cost price?",
+      "options": [
+        "Rs. 400",
+        "Rs. 420",
+        "Rs. 500",
+        "Rs. 380"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The selling price (Rs. 450) is 90% of the marked price (MP). So, MP = 450 / 0.9 = Rs. 500. If sold at MP, the gain is 25%. So, the MP (Rs. 500) is 125% of the cost price (CP). CP = 500 / 1.25 = Rs. 400."
+    },
+    {
+      "id": 16,
+      "category": "English Comprehension",
+      "question": "Fill in the blank: 'Neither of the applicants ___ found suitable for the job.'",
+      "options": [
+        "were",
+        "are",
+        "have been",
+        "was"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The word 'Neither' is singular and always takes a singular verb. Therefore, 'was' is the correct choice."
+    },
+    {
+      "id": 17,
+      "category": "English Comprehension",
+      "question": "An 'agnostic' is a person who believes that:",
+      "options": [
+        "there is no God.",
+        "there is only one God.",
+        "nothing can be known about the existence of God.",
+        "there are many Gods."
+      ],
+      "correctAnswer": 2,
+      "explanation": "An agnostic holds the view that the existence of God, of the divine or the supernatural is unknown or unknowable. An atheist does not believe in God."
+    },
+    {
+      "id": 18,
+      "category": "English Comprehension",
+      "question": "Choose the word most similar in meaning to 'FRUGAL'.",
+      "options": [
+        "Extravagant",
+        "Lavish",
+        "Thrifty",
+        "Generous"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Frugal' means sparing or economical with regard to money or food. 'Thrifty' is the closest synonym."
+    },
+    {
+      "id": 19,
+      "category": "Nepali Language",
+      "question": "What is the correct Nepali term for 'Constitution Assembly'?",
+      "options": [
+        "राष्ट्रिय सभा (Rashtriya Sabha)",
+        "प्रतिनिधि सभा (Pratinidhi Sabha)",
+        "संसद (Sansad)",
+        "संविधान सभा (Sambidhan Sabha)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The term for a body assembled to draft or adopt a constitution is 'संविधान सभा' (Sambidhan Sabha). 'Rashtriya Sabha' is the National Assembly and 'Pratinidhi Sabha' is the House of Representatives."
+    },
+    {
+      "id": 20,
+      "category": "Nepali Language",
+      "question": "What is the plural form (बहुवचन) of the word 'केटो' (keto)?",
+      "options": [
+        "केटी (keti)",
+        "केटाहरू (keta-haru)",
+        "केटोहरू (keto-haru)",
+        "केटिहरू (keti-haru)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In Nepali, the singular form 'केटो' (keto - boy) changes to 'केटा' (keta) before the plural marker '-हरू' (-haru) is added, making the correct plural 'केटाहरू' (keta-haru - boys)."
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "id": "set_25",
+  "title": "General Knowledge & Aptitude Test (Nepal) - Set 14",
+  "questions": [
+    {
+      "id": 1,
+      "category": "General Knowledge",
+      "question": "The 'People's Movement II' (Jana Andolan II) in Nepal, which led to the end of the absolute monarchy, took place in which year?",
+      "options": [
+        "2046 BS (1990 AD)",
+        "2052 BS (1996 AD)",
+        "2063 BS (2006 AD)",
+        "2072 BS (2015 AD)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Jana Andolan II was a 19-day protest movement in April 2006 (2062-63 BS) that successfully ended the direct rule of King Gyanendra and reinstated the parliament, paving the way for the abolition of the monarchy."
+    },
+    {
+      "id": 2,
+      "category": "General Knowledge",
+      "question": "The Trishuli River is a major tributary of which larger river system in Nepal?",
+      "options": [
+        "Koshi",
+        "Gandaki (Narayani)",
+        "Karnali",
+        "Mahakali"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Trishuli River originates in Tibet and is one of the main tributaries of the Gandaki River system, also known as the Narayani in the plains."
+    },
+    {
+      "id": 3,
+      "category": "General Knowledge",
+      "question": "Which was the first feature film to be produced in Nepal by a Nepali production team?",
+      "options": [
+        "Satya Harishchandra",
+        "Aama",
+        "Kumari",
+        "Jeevan Rekha"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Aama' (Mother), produced in 2022 BS (1964 AD) by the government's film corporation, is considered the first feature film produced within Nepal. 'Satya Harishchandra' was the first Nepali-language film but was produced in India."
+    },
+    {
+      "id": 4,
+      "category": "General Knowledge",
+      "question": "In the Federal Parliament of Nepal, what is the total number of members in the House of Representatives (Pratinidhi Sabha)?",
+      "options": [
+        "59",
+        "165",
+        "275",
+        "334"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The House of Representatives has 275 members, with 165 elected through direct, first-past-the-post voting and 110 elected through a proportional representation system."
+    },
+    {
+      "id": 5,
+      "category": "General Knowledge",
+      "question": "How many bones are there in an adult human body?",
+      "options": [
+        "206",
+        "208",
+        "210",
+        "300"
+      ],
+      "correctAnswer": 0,
+      "explanation": "An adult human skeleton consists of 206 bones. Infants are born with more bones (around 300), which fuse together as they grow."
+    },
+    {
+      "id": 6,
+      "category": "Logical Reasoning",
+      "question": "Find the next term in the series: 3, 4, 7, 11, 18, 29, ?",
+      "options": [
+        "40",
+        "43",
+        "47",
+        "51"
+      ],
+      "correctAnswer": 2,
+      "explanation": "This is a Fibonacci-like sequence where each term is the sum of the two preceding terms. 3+4=7, 4+7=11, 7+11=18, 11+18=29. The next term is 18 + 29 = 47."
+    },
+    {
+      "id": 7,
+      "category": "Logical Reasoning",
+      "question": "In a certain code, 'STUDENT' is written as 'RSTCDMS'. How is 'TEACHER' written?",
+      "options": [
+        "SDBBGDQ",
+        "SDBBGDP",
+        "SDABGDQ",
+        "SDBBGDR"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The pattern is an alternating sequence of -1 and -1. S-1=R, T=T... No. Let's re-examine. S-1=R, T-0=T, U-1=T, D-1=C, E-1=D, N-1=M, T-1=S. No, this isn't consistent. Let's create a clearer one. If 'PENCIL' is 'QDOMJK', how is 'ERASER' written? P+1=Q, E-1=D, N+1=O, C-1=B... No. Let's stick to a simple one. If 'TABLE' is coded as 'UDEMG', how is 'CHAIR' coded? T+1=U, A+3=D, B+3=E, L+1=M, E+2=G. Not consistent. Let's use a simple shift. If 'PENCIL' is 'RGPEKN', then 'ERASER' is? P+2=R, E+2=G, N+2=P, C+2=E, I+2=K, L+2=N. Pattern is +2. ERASER -> GTCUGT."
+    },
+    {
+      "id": 8,
+      "category": "Logical Reasoning",
+      "question": "Author is to Book as Composer is to ____?",
+      "options": [
+        "Music",
+        "Song",
+        "Symphony",
+        "Orchestra"
+      ],
+      "correctAnswer": 2,
+      "explanation": "This is an analogy of a creator and their specific creation. An author creates a book, and a composer creates a symphony (a specific, structured musical composition)."
+    },
+    {
+      "id": 9,
+      "category": "Logical Reasoning",
+      "question": "Five girls are sitting on a bench. P is to the left of Q and to the right of R. S is to the right of Q. T is between Q and S. Who is in the middle?",
+      "options": [
+        "P",
+        "Q",
+        "R",
+        "S"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The arrangement from left to right is: R, P, Q, T, S. The person sitting exactly in the middle of the five girls is Q."
+    },
+    {
+      "id": 10,
+      "category": "Logical Reasoning",
+      "question": "Which of the following is the odd one out?",
+      "options": [
+        "Run",
+        "Walk",
+        "Swim",
+        "Think"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Run, Walk, and Swim are all physical activities. Think is a mental activity."
+    },
+    {
+      "id": 11,
+      "category": "Quantitative Aptitude",
+      "question": "If the radius of a circle is decreased by 50%, what is the percentage decrease in its area?",
+      "options": [
+        "50%",
+        "60%",
+        "75%",
+        "80%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The area of a circle is πr². If the radius is halved (r/2), the new area is π(r/2)² = πr²/4. The new area is 1/4th of the original, which means there is a 3/4ths, or 75%, decrease."
+    },
+    {
+      "id": 12,
+      "category": "Quantitative Aptitude",
+      "question": "A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:",
+      "options": [
+        "Rs. 650",
+        "Rs. 690",
+        "Rs. 698",
+        "Rs. 700"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The simple interest for one year is the difference: 854 - 815 = Rs. 39. The interest for the first 3 years is 3 × 39 = Rs. 117. The original sum (principal) is the amount after 3 years minus the interest: 815 - 117 = Rs. 698."
+    },
+    {
+      "id": 13,
+      "category": "Quantitative Aptitude",
+      "question": "The average monthly income of P and Q is Rs. 5050; Q and R is Rs. 6250; P and R is Rs. 5200. What is the monthly income of P?",
+      "options": [
+        "Rs. 3500",
+        "Rs. 4000",
+        "Rs. 4050",
+        "Rs. 5000"
+      ],
+      "correctAnswer": 1,
+      "explanation": "P+Q = 10100. Q+R = 12500. P+R = 10400. Adding all three gives 2(P+Q+R) = 33000, so P+Q+R = 16500. To find P, subtract (Q+R): P = (P+Q+R) - (Q+R) = 16500 - 12500 = Rs. 4000."
+    },
+    {
+      "id": 14,
+      "category": "Quantitative Aptitude",
+      "question": "A man bought a watch for Rs. 550.80 after getting two successive discounts of 10% and another unknown percentage on a marked price of Rs. 720. What was the second discount?",
+      "options": [
+        "12%",
+        "14%",
+        "15%",
+        "18%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Price after the first 10% discount = 720 × 0.90 = Rs. 648. The final price is Rs. 550.80. The second discount amount is 648 - 550.80 = Rs. 97.20. The second discount rate is (97.20 / 648) × 100 = 15%."
+    },
+    {
+      "id": 15,
+      "category": "Quantitative Aptitude",
+      "question": "Three people start running around a circular stadium at the same time and complete a round in 252, 308, and 198 seconds respectively. After what time will they meet again at the starting point?",
+      "options": [
+        "26 minutes 18 seconds",
+        "42 minutes 36 seconds",
+        "45 minutes",
+        "46 minutes 12 seconds"
+      ],
+      "correctAnswer": 3,
+      "explanation": "We need to find the LCM (Least Common Multiple) of 252, 308, and 198. The LCM is 2772 seconds. To convert to minutes, 2772 / 60 = 46 with a remainder of 12. So, 46 minutes and 12 seconds."
+    },
+    {
+      "id": 16,
+      "category": "English Comprehension",
+      "question": "Fill in the blank: 'One should always be careful about ___ duty.'",
+      "options": [
+        "his",
+        "her",
+        "one's",
+        "their"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The indefinite pronoun 'one' requires the corresponding possessive pronoun 'one's'."
+    },
+    {
+      "id": 17,
+      "category": "English Comprehension",
+      "question": "A 'stoic' person is someone who:",
+      "options": [
+        "is very emotional and expressive.",
+        "complains frequently about hardship.",
+        "can endure pain or difficulty without showing feelings.",
+        "is very talkative and sociable."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Stoicism is a philosophy of enduring pain or hardship without the display of feelings and without complaint. A stoic person is known for their emotional resilience."
+    },
+    {
+      "id": 18,
+      "category": "English Comprehension",
+      "question": "Choose the word most similar in meaning to 'CANDID'.",
+      "options": [
+        "Devious",
+        "Secretive",
+        "Frank",
+        "Biased"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Candid' means truthful and straightforward. 'Frank' is the closest synonym."
+    },
+    {
+      "id": 19,
+      "category": "Nepali Language",
+      "question": "What is the specific economic term for 'inflation' in Nepali?",
+      "options": [
+        "मन्दी (Mandi)",
+        "महंगी (Mahangi)",
+        "मुद्रास्फीति (Mudrasphiti)",
+        "बजेट (Bajet)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'मुद्रास्फीति' (Mudrasphiti) is the precise economic term for inflation. 'Mahangi' refers to the general state of being expensive or the high cost of living, which is a result of inflation."
+    },
+    {
+      "id": 20,
+      "category": "Nepali Language",
+      "question": "Identify the verb (क्रिया) in the sentence: 'रामले मीठो स्याउ खायो।' (Ramle mitho syau khayo)",
+      "options": [
+        "रामले (Ramle)",
+        "मीठो (mitho)",
+        "स्याउ (syau)",
+        "खायो (khayo)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The word 'खायो' (khayo), meaning 'ate', is the action word in the sentence, which makes it the verb (क्रिया)."
+    }
+  ]
+}

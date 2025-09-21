@@ -1,0 +1,265 @@
+{
+  "id": "set_21",
+  "title": "General Knowledge & Aptitude Test (Nepal) - Set 10",
+  "questions": [
+    {
+      "id": 1,
+      "category": "General Knowledge",
+      "question": "Which Malla king of Kathmandu was a great patron of arts and literature, earning the title 'Kavindra' (King of Poets)?",
+      "options": [
+        "Pratap Malla",
+        "Bhupatindra Malla",
+        "Siddhi Narsingh Malla",
+        "Yaksha Malla"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pratap Malla was a talented poet and a great builder. He constructed many of the temples around the Hanuman Dhoka Durbar Square and was known by the title 'Kavindra'."
+    },
+    {
+      "id": 2,
+      "category": "General Knowledge",
+      "question": "The Seti River in western Nepal is a major tributary of which river system?",
+      "options": [
+        "Koshi",
+        "Gandaki",
+        "Karnali",
+        "Mahakali"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Seti River flows through the western part of Nepal and is one of the main tributaries of the Karnali River system, the longest river system in Nepal."
+    },
+    {
+      "id": 3,
+      "category": "General Knowledge",
+      "question": "The 'Udhauli' and 'Ubhauli' festivals, marking the change of seasons, are major celebrations for which indigenous community?",
+      "options": [
+        "Tharu",
+        "Gurung",
+        "Magar",
+        "Kirat (Rai, Limbu, etc.)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Udhauli and Ubhauli are the most important festivals for the Kirati people, celebrated twice a year to mark the migration of birds and animals up and down the hills."
+    },
+    {
+      "id": 4,
+      "category": "General Knowledge",
+      "question": "Under which part of the Constitution of Nepal are the Fundamental Rights of citizens enshrined?",
+      "options": [
+        "Part 1",
+        "Part 2",
+        "Part 3",
+        "Part 4"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Part 3 of the Constitution of Nepal (2015) details the 31 fundamental rights guaranteed to every citizen, covering areas like freedom, equality, and social justice."
+    },
+    {
+      "id": 5,
+      "category": "General Knowledge",
+      "question": "Which of the following countries is a member of the Association of Southeast Asian Nations (ASEAN) but not of SAARC?",
+      "options": [
+        "Nepal",
+        "India",
+        "Thailand",
+        "Bangladesh"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Thailand is a founding member of ASEAN, a Southeast Asian organization. Nepal, India, and Bangladesh are members of SAARC, the South Asian regional organization."
+    },
+    {
+      "id": 6,
+      "category": "Logical Reasoning",
+      "question": "Find the next term in the series: 1, 4, 27, 256, ?",
+      "options": [
+        "625",
+        "1024",
+        "3125",
+        "7776"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The pattern of the series is n raised to the power of n (n^n): 1¹=1, 2²=4, 3³=27, 4⁴=256. The next term is 5⁵ = 3125."
+    },
+    {
+      "id": 7,
+      "category": "Logical Reasoning",
+      "question": "In a certain code, 'ORANGE' is written as 'RONAEG'. How is 'SILVER' written?",
+      "options": [
+        "ISLVRE",
+        "ISVLRE",
+        "SLIVRE",
+        "ISLVER"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The letters in the word are swapped in pairs. OR -> RO, AN -> NA, GE -> EG. Following this pattern for 'SILVER': SI -> IS, LV -> VL, ER -> RE. The result is ISVLRE."
+    },
+    {
+      "id": 8,
+      "category": "Logical Reasoning",
+      "question": "Doctor is to Diagnosis as Judge is to ____?",
+      "options": [
+        "Court",
+        "Lawyer",
+        "Judgment",
+        "Crime"
+      ],
+      "correctAnswer": 2,
+      "explanation": "This is an analogy of a professional and their primary intellectual product or decision. A doctor's primary role is to provide a diagnosis, and a judge's primary role is to deliver a judgment."
+    },
+    {
+      "id": 9,
+      "category": "Logical Reasoning",
+      "question": "Which of the following is the odd one out?",
+      "options": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Moon"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Moon is a natural satellite. Mercury, Venus, and Mars are all planets in our Solar System."
+    },
+    {
+      "id": 10,
+      "category": "Logical Reasoning",
+      "question": "Six people (A, B, C, D, E, F) sit in a row. A and F are at the ends. B is to the immediate right of A. E is to the immediate left of F. C is between D and E. Who is to the immediate right of D?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The arrangement from left to right is: A, B, D, C, E, F. Therefore, the person sitting to the immediate right of D is C."
+    },
+    {
+      "id": 11,
+      "category": "Quantitative Aptitude",
+      "question": "A's salary is 50% more than B's. By what percentage is B's salary less than A's?",
+      "options": [
+        "50%",
+        "40%",
+        "33.33%",
+        "25%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Let B's salary be 100. Then A's salary is 150. The difference is 50. To find how much less B's salary is than A's, we calculate the percentage with respect to A's salary: (50 / 150) × 100 = 33.33%."
+    },
+    {
+      "id": 12,
+      "category": "Quantitative Aptitude",
+      "question": "A man buys an article for Rs. 490 and sells it for Rs. 465.50. Find his loss percent.",
+      "options": [
+        "4%",
+        "4.5%",
+        "5%",
+        "5.5%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The loss is 490 - 465.50 = Rs. 24.50. The loss percentage is (Loss / Cost Price) × 100 = (24.50 / 490) × 100 = 5%."
+    },
+    {
+      "id": 13,
+      "category": "Quantitative Aptitude",
+      "question": "At what rate of simple interest per annum will a sum of money double in 16 years?",
+      "options": [
+        "5%",
+        "6%",
+        "6.25%",
+        "6.5%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "For a sum to double, the Simple Interest (SI) must be equal to the Principal (P). Using the formula Rate = (SI × 100) / (P × Time), we get Rate = (P × 100) / (P × 16) = 100 / 16 = 6.25%."
+    },
+    {
+      "id": 14,
+      "category": "Quantitative Aptitude",
+      "question": "What is the average of the first five prime numbers?",
+      "options": [
+        "5",
+        "5.6",
+        "6",
+        "7.2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The first five prime numbers are 2, 3, 5, 7, and 11. Their sum is 2 + 3 + 5 + 7 + 11 = 28. The average is the sum divided by the count: 28 / 5 = 5.6."
+    },
+    {
+      "id": 15,
+      "category": "Quantitative Aptitude",
+      "question": "If 15 toys cost Rs. 234, what is the cost of 35 toys?",
+      "options": [
+        "Rs. 546",
+        "Rs. 556",
+        "Rs. 566",
+        "Rs. 576"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The cost of one toy is Rs. 234 / 15. Therefore, the cost of 35 toys is (234 / 15) × 35 = Rs. 546."
+    },
+    {
+      "id": 16,
+      "category": "English Comprehension",
+      "question": "Fill in the blank: 'Either my shoes or your coat ___ always on the floor.'",
+      "options": [
+        "is",
+        "are",
+        "have",
+        "were"
+      ],
+      "correctAnswer": 0,
+      "explanation": "When using 'either/or' or 'neither/nor', the verb agrees with the subject that is closest to it. In this case, 'coat' is singular, so the correct verb is 'is'."
+    },
+    {
+      "id": 17,
+      "category": "English Comprehension",
+      "question": "The word 'omnipotent' means:",
+      "options": [
+        "all-knowing",
+        "ever-present",
+        "all-powerful",
+        "all-seeing"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Omnipotent' combines the Latin words 'omni' (all) and 'potens' (powerful), meaning having unlimited power."
+    },
+    {
+      "id": 18,
+      "category": "English Comprehension",
+      "question": "What does the idiom 'a blessing in disguise' mean?",
+      "options": [
+        "A good thing that seemed bad at first",
+        "A bad thing that seemed good at first",
+        "A secret blessing that is never revealed",
+        "A complete and obvious disaster"
+      ],
+      "correctAnswer": 0,
+      "explanation": "This idiom refers to something that appears to be a misfortune at first but ultimately results in something good."
+    },
+    {
+      "id": 19,
+      "category": "Nepali Language",
+      "question": "What is the correct Nepali word for 'agriculture'?",
+      "options": [
+        "उद्योग (Udyog)",
+        "व्यापार (Byapar)",
+        "कृषि (Krishi)",
+        "पर्यटन (Paryatan)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'कृषि' (Krishi) is the Nepali word for agriculture. 'Udyog' is industry, 'Byapar' is trade/business, and 'Paryatan' is tourism."
+    },
+    {
+      "id": 20,
+      "category": "Nepali Language",
+      "question": "Identify the adverb (क्रियाविशेषण) in the sentence: 'उ विस्तारै हिंड्छ।' (U bistarai hidchha)",
+      "options": [
+        "उ (u)",
+        "विस्तारै (bistarai)",
+        "हिंड्छ (hidchha)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The word 'विस्तारै' (bistarai), meaning 'slowly', describes how the action of the verb 'हिंड्छ' (hidchha - walks) is performed. Therefore, it is the adverb."
+    }
+  ]
+}

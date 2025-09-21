@@ -1,0 +1,32 @@
+{
+  "id": "set_3",
+  "title": "Question Set 3",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Economics",
+      "question": "What is the currency of Nepal?",
+      "options": [
+        "Nepali Rupee",
+        "Indian Rupee",
+        "US Dollar",
+        "Euro"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The official currency of Nepal is the Nepali Rupee (NPR), which is pegged to the Indian Rupee."
+    },
+    {
+      "id": 2,
+      "category": "Culture",
+      "question": "Which festival is known as the 'Festival of Lights' in Nepal?",
+      "options": [
+        "Dashain",
+        "Tihar",
+        "Holi",
+        "Buddha Jayanti"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tihar is known as the 'Festival of Lights' and is celebrated by lighting diyas and decorating homes with lights."
+    }
+  ]
+} 

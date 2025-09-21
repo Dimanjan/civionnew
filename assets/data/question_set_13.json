@@ -1,0 +1,266 @@
+{
+  "id": "set_13",
+  "title": "General Knowledge & Aptitude Test (Nepal) - Set 2",
+  "questions": [
+    {
+      "id": 1,
+      "category": "General Knowledge",
+      "question": "Who was the first elected Prime Minister of Nepal?",
+      "options": [
+        "Tanka Prasad Acharya",
+        "Matrika Prasad Koirala",
+        "Bishweshwar Prasad Koirala",
+        "Surya Bahadur Thapa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bishweshwar Prasad Koirala (B.P. Koirala) became the first democratically elected Prime Minister of Nepal in 1959 AD (2015 BS) after the Nepali Congress party won the general election."
+    },
+    {
+      "id": 2,
+      "category": "General Knowledge",
+      "question": "Which of the following is the deepest lake in Nepal?",
+      "options": [
+        "Rara Lake",
+        "Phewa Lake",
+        "Shey Phoksundo Lake",
+        "Tilicho Lake"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Shey Phoksundo Lake is the deepest lake in Nepal, with a maximum depth of 145 meters (476 feet)."
+    },
+    {
+      "id": 3,
+      "category": "General Knowledge",
+      "question": "What is the national animal of Nepal according to the constitution?",
+      "options": [
+        "Tiger",
+        "Elephant",
+        "Cow",
+        "One-horned Rhino"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Constitution of Nepal officially designates the Cow as the national animal, holding significant religious and cultural value."
+    },
+    {
+      "id": 4,
+      "category": "General Knowledge",
+      "question": "The living goddess 'Kumari' is traditionally chosen from which community of the Kathmandu Valley?",
+      "options": [
+        "Gurung",
+        "Newar",
+        "Tharu",
+        "Sherpa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The tradition of the Kumari, or living goddess, is deeply rooted in the Newar community of the Kathmandu Valley."
+    },
+    {
+      "id": 5,
+      "category": "General Knowledge",
+      "question": "On which date did Nepal officially become a member of the United Nations (UN)?",
+      "options": [
+        "14 December 1955",
+        "29 May 1953",
+        "20 September 2015",
+        "18 May 1960"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Nepal was admitted as a member state of the United Nations on 14 December 1955."
+    },
+    {
+      "id": 6,
+      "category": "Logical Reasoning",
+      "question": "Find the next term in the alphabetical series: A, D, I, P, ?",
+      "options": [
+        "W",
+        "X",
+        "Y",
+        "Z"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The series consists of letters at positions that are perfect squares: A is 1st (1²), D is 4th (2²), I is 9th (3²), P is 16th (4²). The next is the 25th letter (5²), which is Y."
+    },
+    {
+      "id": 7,
+      "category": "Logical Reasoning",
+      "question": "Pointing to a photograph, a man says, 'I have no brother, but that man's father is my father's son.' Whose photograph is it?",
+      "options": [
+        "His own",
+        "His Son's",
+        "His Father's",
+        "His Nephew's"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Since the man has no brother, 'my father's son' can only be the man himself. So, the man in the photograph's father is the speaker. Therefore, the photograph is of his son."
+    },
+    {
+      "id": 8,
+      "category": "Logical Reasoning",
+      "question": "Which number is the odd one out: 9, 25, 49, 63?",
+      "options": [
+        "9",
+        "25",
+        "49",
+        "63"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The numbers 9, 25, and 49 are perfect squares (3², 5², and 7² respectively). The number 63 is not a perfect square."
+    },
+    {
+      "id": 9,
+      "category": "Logical Reasoning",
+      "question": "Doctor is to Hospital as Teacher is to ____?",
+      "options": [
+        "Book",
+        "Student",
+        "School",
+        "Knowledge"
+      ],
+      "correctAnswer": 2,
+      "explanation": "This is a workplace analogy. A doctor primarily works in a hospital, and a teacher primarily works in a school."
+    },
+    {
+      "id": 10,
+      "category": "Logical Reasoning",
+      "question": "If 'WATER' is coded as 'YCVGT', how would you decode 'HKTG'?",
+      "options": [
+        "FIRE",
+        "FINE",
+        "FIVE",
+        "FIND"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The coding pattern shifts each letter forward by two places (W+2=Y, A+2=C...). To decode 'HKTG', you must shift each letter back by two places: H-2=F, K-2=I, T-2=R, G-2=E. The word is FIRE."
+    },
+    {
+      "id": 11,
+      "category": "Quantitative Aptitude",
+      "question": "By selling a table for Rs. 350 instead of Rs. 400, the loss percent increases by 5%. The cost price of the table is:",
+      "options": [
+        "Rs. 1000",
+        "Rs. 1050",
+        "Rs. 1100",
+        "Rs. 1150"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The difference in selling price is Rs. 50 (400 - 350). This Rs. 50 difference accounts for the 5% increase in loss. So, if 5% of the Cost Price (CP) is Rs. 50, then the full CP is (50 / 5) × 100 = Rs. 1000."
+    },
+    {
+      "id": 12,
+      "category": "Quantitative Aptitude",
+      "question": "A can do a work in 15 days and B in 20 days. If they work together for 4 days, what fraction of the work is left?",
+      "options": [
+        "8/15",
+        "7/15",
+        "1/4",
+        "1/10"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A's work per day is 1/15. B's work per day is 1/20. Their combined work per day is 1/15 + 1/20 = 7/60. In 4 days, they complete 4 × (7/60) = 7/15 of the work. The work left is 1 - 7/15 = 8/15."
+    },
+    {
+      "id": 13,
+      "category": "Quantitative Aptitude",
+      "question": "A person crosses a 600-meter-long street in 5 minutes. What is his speed in km/hr?",
+      "options": [
+        "3.6",
+        "7.2",
+        "8.4",
+        "10"
+      ],
+      "correctAnswer": 1,
+      "explanation": "First, convert time to seconds: 5 minutes = 300 seconds. Speed = Distance / Time = 600 m / 300 s = 2 m/s. To convert m/s to km/hr, multiply by 18/5. So, 2 × (18/5) = 36/5 = 7.2 km/hr."
+    },
+    {
+      "id": 14,
+      "category": "Quantitative Aptitude",
+      "question": "The average of the first 50 natural numbers is:",
+      "options": [
+        "25",
+        "25.5",
+        "26",
+        "26.5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The formula for the average of the first 'n' natural numbers is (n + 1) / 2. For n=50, the average is (50 + 1) / 2 = 25.5."
+    },
+    {
+      "id": 15,
+      "category": "Quantitative Aptitude",
+      "question": "A rectangle's length is increased by 10% and its breadth is decreased by 10%. What is the percentage change in its area?",
+      "options": [
+        "1% increase",
+        "1% decrease",
+        "No change",
+        "2% decrease"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Let the original length be L and breadth be B. New length = 1.1L, new breadth = 0.9B. New area = (1.1L) × (0.9B) = 0.99 LB. This is a 1% decrease from the original area (LB)."
+    },
+    {
+      "id": 16,
+      "category": "English Comprehension",
+      "question": "What is the meaning of the idiom 'to hit the nail on the head'?",
+      "options": [
+        "To make the right decision",
+        "To describe something perfectly or do something exactly right",
+        "To hit something with a hammer",
+        "To cause an argument"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This idiom means to identify something precisely or to say or do something that is exactly right."
+    },
+    {
+      "id": 17,
+      "category": "English Comprehension",
+      "question": "A person who can speak two languages fluently is called:",
+      "options": [
+        "Monolingual",
+        "Bilingual",
+        "Multilingual",
+        "Linguist"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Bi-' is a prefix meaning two, and 'lingual' relates to language. A bilingual person can speak two languages."
+    },
+    {
+      "id": 18,
+      "category": "English Comprehension",
+      "question": "Which of the following spellings is correct?",
+      "options": [
+        "Comittee",
+        "Commitee",
+        "Committee",
+        "Comitee"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The correct spelling is 'Committee', with double 'm', double 't', and double 'e'."
+    },
+    {
+      "id": 19,
+      "category": "Nepali Language",
+      "question": "What is the correct Nepali word for 'Constitution'?",
+      "options": [
+        "कानून (Kanoon)",
+        "नियम (Niyam)",
+        "संविधान (Sambidhan)",
+        "घोषणा (Ghoshana)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The official term for the Constitution in Nepali is 'संविधान' (Sambidhan). 'Kanoon' means law, 'Niyam' means rule, and 'Ghoshana' means declaration."
+    },
+    {
+      "id": 20,
+      "category": "Nepali Language",
+      "question": "What is the feminine gender (स्त्रीलिङ्ग) of 'राजा' (Raja)?",
+      "options": [
+        "राजकुमारी (Rajkumari)",
+        "रानी (Rani)",
+        "महिला (Mahila)",
+        "शासक (Shasak)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The word 'राजा' (Raja) means King. Its feminine counterpart is 'रानी' (Rani), which means Queen. 'Rajkumari' means princess."
+    }
+  ]
+}

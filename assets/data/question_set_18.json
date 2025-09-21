@@ -1,0 +1,266 @@
+{
+  "id": "set_18",
+  "title": "General Knowledge & Aptitude Test (Nepal) - Set 7",
+  "questions": [
+    {
+      "id": 1,
+      "category": "General Knowledge",
+      "question": "Who was the first Rana Prime Minister of Nepal, establishing the hereditary Rana regime?",
+      "options": [
+        "Jung Bahadur Rana",
+        "Bam Bahadur Kunwar",
+        "Ranodip Singh Kunwar",
+        "Bir Shumsher JBR"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Jung Bahadur Rana established the Rana dynasty in 1846 AD and became the first hereditary Prime Minister of Nepal, a position his family held for 104 years."
+    },
+    {
+      "id": 2,
+      "category": "General Knowledge",
+      "question": "Which is the largest glacier in Nepal?",
+      "options": [
+        "Khumbu Glacier",
+        "Ngozumpa Glacier",
+        "Langtang Glacier",
+        "Imja Glacier"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Ngozumpa glacier, located at the foot of Cho Oyu (the world's sixth-highest mountain), is the longest glacier in the Himalayas, including Nepal, with a length of 36 kilometers (22 miles)."
+    },
+    {
+      "id": 3,
+      "category": "General Knowledge",
+      "question": "The 'Maghe Sankranti' festival marks the beginning of which holy month in the Nepali Bikram Sambat calendar?",
+      "options": [
+        "Shrawan",
+        "Kartik",
+        "Magh",
+        "Falgun"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Maghe Sankranti is celebrated on the first day of the month of Magh, marking the end of the winter solstice and the beginning of a period of warmer weather."
+    },
+    {
+      "id": 4,
+      "category": "General Knowledge",
+      "question": "According to the Constitution of Nepal, a person can acquire citizenship by descent if whose father or mother is a citizen of Nepal at the time of their birth?",
+      "options": [
+        "Only father",
+        "Only mother",
+        "Either father or mother",
+        "Both father and mother"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The constitution ensures gender equality by stating that a person whose father or mother was a citizen of Nepal at the time of their birth is eligible for citizenship by descent."
+    },
+    {
+      "id": 5,
+      "category": "General Knowledge",
+      "question": "Which organ in the human body is responsible for producing insulin?",
+      "options": [
+        "Liver",
+        "Pancreas",
+        "Kidney",
+        "Stomach"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The pancreas, a gland located behind the stomach, produces the hormone insulin, which helps regulate blood sugar levels."
+    },
+    {
+      "id": 6,
+      "category": "Logical Reasoning",
+      "question": "What comes next in the series: 4, 9, 25, 49, ?",
+      "options": [
+        "81",
+        "100",
+        "121",
+        "144"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The series consists of the squares of consecutive prime numbers: 2², 3², 5², 7². The next prime number is 11, and its square is 121."
+    },
+    {
+      "id": 7,
+      "category": "Logical Reasoning",
+      "question": "If 'CHAPTER' is coded as 'CHAPTRET', how is 'MONITOR' coded?",
+      "options": [
+        "MONITROT",
+        "MONITORT",
+        "MONITOR",
+        "MONITRO"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The pattern is to keep the first five letters the same and reverse the last two letters. For 'MONITOR', the first five are 'MONIT' and the last two 'OR' are reversed to 'RO'. Thus, the code is MONITRO."
+    },
+    {
+      "id": 8,
+      "category": "Logical Reasoning",
+      "question": "Oxygen is to Burn as Carbon Dioxide is to ____?",
+      "options": [
+        "Isolate",
+        "Foam",
+        "Extinguish",
+        "Explode"
+      ],
+      "correctAnswer": 2,
+      "explanation": "This is a functional analogy. Oxygen is necessary for combustion (burning), while carbon dioxide is used to suppress combustion and extinguish fires."
+    },
+    {
+      "id": 9,
+      "category": "Logical Reasoning",
+      "question": "A, B, C, D, and E are sitting in a circle facing the center. C is to the immediate right of A. D is between A and B. Who is sitting to the immediate left of C?",
+      "options": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The arrangement in clockwise order is A, C, E, B, D. Sitting to the immediate left of C is E."
+    },
+    {
+      "id": 10,
+      "category": "Logical Reasoning",
+      "question": "Which of the following musical instruments is the odd one out?",
+      "options": [
+        "Guitar",
+        "Sitar",
+        "Violin",
+        "Flute"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The flute is a wind instrument (woodwind). The guitar, sitar, and violin are all string instruments (chordophones)."
+    },
+    {
+      "id": 11,
+      "category": "Quantitative Aptitude",
+      "question": "A man's salary is increased by 20% and then decreased by 20%. What is the net percentage change in his salary?",
+      "options": [
+        "No change",
+        "4% increase",
+        "4% decrease",
+        "2% decrease"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Let the original salary be 100. After a 20% increase, it becomes 120. A 20% decrease on 120 is 120 * 0.20 = 24. The new salary is 120 - 24 = 96. This is a net decrease of 4% from the original 100."
+    },
+    {
+      "id": 12,
+      "category": "Quantitative Aptitude",
+      "question": "An article is sold for Rs. 660 at a profit of 10%. What was its cost price?",
+      "options": [
+        "Rs. 500",
+        "Rs. 550",
+        "Rs. 600",
+        "Rs. 620"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The selling price (SP) is 110% of the cost price (CP). So, CP = SP / 1.10 = 660 / 1.10 = Rs. 600."
+    },
+    {
+      "id": 13,
+      "category": "Quantitative Aptitude",
+      "question": "In how many years will a sum of Rs. 800 at 10% per annum simple interest amount to Rs. 1000?",
+      "options": [
+        "2 years",
+        "2.5 years",
+        "3 years",
+        "3.5 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The simple interest (SI) to be earned is 1000 - 800 = Rs. 200. Using the formula Time = (SI × 100) / (Principal × Rate), Time = (200 × 100) / (800 × 10) = 20000 / 8000 = 2.5 years."
+    },
+    {
+      "id": 14,
+      "category": "Quantitative Aptitude",
+      "question": "The average of five numbers is 27. If one number is excluded, the average becomes 25. The excluded number is:",
+      "options": [
+        "25",
+        "27",
+        "30",
+        "35"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The sum of the original five numbers is 5 × 27 = 135. The sum of the remaining four numbers is 4 × 25 = 100. The excluded number is the difference: 135 - 100 = 35."
+    },
+    {
+      "id": 15,
+      "category": "Quantitative Aptitude",
+      "question": "If 2A = 3B = 4C, then what is the ratio A:B:C?",
+      "options": [
+        "2:3:4",
+        "4:3:2",
+        "6:4:3",
+        "3:4:6"
+      ],
+      "correctAnswer": 2,
+      "explanation": "To find the ratio, divide by the LCM of the coefficients (2, 3, 4), which is 12. This gives A/6 = B/4 = C/3. Therefore, the ratio A:B:C is 6:4:3."
+    },
+    {
+      "id": 16,
+      "category": "English Comprehension",
+      "question": "Fill in the blank with the correct preposition: 'I prefer tea ___ coffee.'",
+      "options": [
+        "than",
+        "over",
+        "to",
+        "for"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The verb 'prefer' is followed by the preposition 'to' when comparing two nouns."
+    },
+    {
+      "id": 17,
+      "category": "English Comprehension",
+      "question": "An 'epilogue' is typically found in which part of a book?",
+      "options": [
+        "Beginning",
+        "Middle",
+        "End",
+        "Cover"
+      ],
+      "correctAnswer": 2,
+      "explanation": "An epilogue is a section or speech at the end of a book or play that serves as a comment on or a conclusion to what has happened."
+    },
+    {
+      "id": 18,
+      "category": "English Comprehension",
+      "question": "Choose the word that is most similar in meaning to 'ADEPT'.",
+      "options": [
+        "Clumsy",
+        "Proficient",
+        "Inept",
+        "Amateur"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Adept' means very skilled or proficient at something. 'Proficient' is the closest synonym."
+    },
+    {
+      "id": 19,
+      "category": "Nepali Language",
+      "question": "What is the Nepali word for 'democracy'?",
+      "options": [
+        "गणतन्त्र (Ganatantra)",
+        "लोकतन्त्र (Lokatantra)",
+        "राजतन्त्र (Rajatantra)",
+        "अधिनायकवाद (Adhinayakbad)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'लोकतन्त्र' (Lokatantra) is the correct term for democracy. 'Ganatantra' means republic, 'Rajatantra' means monarchy, and 'Adhinayakbad' means dictatorship."
+    },
+    {
+      "id": 20,
+      "category": "Nepali Language",
+      "question": "What is the opposite (विपरीतार्थी) of the word 'ज्ञानी' (Gyani)?",
+      "options": [
+        "बुद्धिमान (Buddhiman)",
+        "मूर्ख (Murkha)",
+        "चलाख (Chalakh)",
+        "विद्वान (Bidwan)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'ज्ञानी' (Gyani) means knowledgeable or wise. Its direct opposite is 'मूर्ख' (Murkha), which means fool or ignorant. The other options are synonyms."
+    }
+  ]
+}

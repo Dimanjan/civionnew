@@ -1,0 +1,266 @@
+{
+  "id": "set_15",
+  "title": "General Knowledge & Aptitude Test (Nepal) - Set 4",
+  "questions": [
+    {
+      "id": 1,
+      "category": "General Knowledge",
+      "question": "The historic Sugauli Treaty was signed between Nepal and the British East India Company in which year?",
+      "options": [
+        "1814 AD",
+        "1815 AD",
+        "1816 AD",
+        "1817 AD"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Sugauli Treaty, which ended the Anglo-Nepalese War, was signed on December 2, 1815, and was ratified on March 4, 1816."
+    },
+    {
+      "id": 2,
+      "category": "General Knowledge",
+      "question": "The Arun River, a major tributary of the Koshi River system, enters Nepal from Tibet through which district?",
+      "options": [
+        "Taplejung",
+        "Sankhuwasabha",
+        "Solukhumbu",
+        "Bhojpur"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Arun River flows into Nepal from Tibet at an elevation of about 3,500 meters in the Sankhuwasabha district."
+    },
+    {
+      "id": 3,
+      "category": "General Knowledge",
+      "question": "According to the Constitution of Nepal, what is the term length for the President of Nepal?",
+      "options": [
+        "4 years",
+        "5 years",
+        "6 years",
+        "7 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The term of office of the President of Nepal is five years from the date of their election."
+    },
+    {
+      "id": 4,
+      "category": "General Knowledge",
+      "question": "Which of the following countries is NOT a member of the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC)?",
+      "options": [
+        "Nepal",
+        "Bhutan",
+        "Pakistan",
+        "Thailand"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The member states of BIMSTEC are Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka, and Thailand. Pakistan is not a member."
+    },
+    {
+      "id": 5,
+      "category": "General Knowledge",
+      "question": "The Pashupatinath Temple, a UNESCO World Heritage site, is located on the banks of which river?",
+      "options": [
+        "Bishnumati River",
+        "Trishuli River",
+        "Bagmati River",
+        "Karnali River"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The sacred Pashupatinath Temple is located on the banks of the Bagmati River in Kathmandu."
+    },
+    {
+      "id": 6,
+      "category": "Logical Reasoning",
+      "question": "Find the next number in the series: 3, 7, 15, 31, 63, ?",
+      "options": [
+        "127",
+        "125",
+        "131",
+        "129"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The pattern is to multiply the current number by 2 and then add 1. So, (63 × 2) + 1 = 126 + 1 = 127."
+    },
+    {
+      "id": 7,
+      "category": "Logical Reasoning",
+      "question": "If 'MIND' is coded as 'KGLB', and 'ARGUE' is coded as 'YPESC', then what will 'DIAGRAM' be coded as?",
+      "options": [
+        "BGYEPYK",
+        "BGYEPYI",
+        "BGYEPYK",
+        "BGYEPYJ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The pattern is to move each letter back by two positions in the alphabet. D-2=B, I-2=G, A-2=Y, G-2=E, R-2=P, A-2=Y, M-2=K. So, the code is BGYEPYK."
+    },
+    {
+      "id": 8,
+      "category": "Logical Reasoning",
+      "question": "Tree is to Forest as Soldier is to ____?",
+      "options": [
+        "Gun",
+        "Army",
+        "Battle",
+        "Captain"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This is a part-to-whole analogy. A tree is a part of a forest, just as a soldier is a part of an army."
+    },
+    {
+      "id": 9,
+      "category": "Logical Reasoning",
+      "question": "A is B's sister. C is B's mother. D is C's father. How is A related to D?",
+      "options": [
+        "Grandfather",
+        "Grandmother",
+        "Daughter",
+        "Granddaughter"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A is the daughter of B's mother, C. D is the father of C. Therefore, A is the granddaughter of D."
+    },
+    {
+      "id": 10,
+      "category": "Logical Reasoning",
+      "question": "Which word does not belong with the others?",
+      "options": [
+        "Parsley",
+        "Basil",
+        "Dill",
+        "Mayonnaise"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Parsley, Basil, and Dill are all types of herbs. Mayonnaise is a sauce or condiment."
+    },
+    {
+      "id": 11,
+      "category": "Quantitative Aptitude",
+      "question": "A student needs 40% marks to pass an exam. He gets 178 marks and fails by 22 marks. What are the maximum marks for the exam?",
+      "options": [
+        "400",
+        "500",
+        "600",
+        "1000"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The passing marks are 178 + 22 = 200. Since 200 marks is 40% of the total, the maximum marks are (200 / 40) × 100 = 500."
+    },
+    {
+      "id": 12,
+      "category": "Quantitative Aptitude",
+      "question": "If A:B = 5:7 and B:C = 6:11, then A:B:C is:",
+      "options": [
+        "55:77:66",
+        "30:42:77",
+        "35:49:44",
+        "30:42:44"
+      ],
+      "correctAnswer": 1,
+      "explanation": "To find A:B:C, make the 'B' term common. Multiply the first ratio by 6 (5:7 -> 30:42) and the second ratio by 7 (6:11 -> 42:77). Combining them gives A:B:C = 30:42:77."
+    },
+    {
+      "id": 13,
+      "category": "Quantitative Aptitude",
+      "question": "The average weight of 8 people increases by 2.5 kg when a new person replaces someone weighing 65 kg. What is the weight of the new person?",
+      "options": [
+        "85 kg",
+        "84 kg",
+        "82 kg",
+        "80 kg"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The total increase in weight across all 8 people is 8 × 2.5 kg = 20 kg. This increase must have been brought by the new person. So, the new person's weight is 65 kg + 20 kg = 85 kg."
+    },
+    {
+      "id": 14,
+      "category": "Quantitative Aptitude",
+      "question": "A shopkeeper sells two items for Rs. 500 each. On one he gains 25%, and on the other, he loses 25%. What is his overall gain or loss percentage?",
+      "options": [
+        "No profit, no loss",
+        "6.25% gain",
+        "6.25% loss",
+        "5% loss"
+      ],
+      "correctAnswer": 2,
+      "explanation": "When two items are sold at the same price, with a gain of x% on one and a loss of x% on the other, there is always a net loss. The loss percentage is (x/10)², which is (25/10)² = 2.5² = 6.25% loss."
+    },
+    {
+      "id": 15,
+      "category": "Quantitative Aptitude",
+      "question": "10 men can finish a job in 10 days, while 12 women can finish it in 10 days. How many days will 15 men and 6 women take to finish the job?",
+      "options": [
+        "4 days",
+        "5 days",
+        "6 days",
+        "7 days"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The total work is 10 men × 10 days = 100 man-days. Also, 100 man-days = 12 women × 10 days = 120 woman-days. So, 10 men = 12 women, or 5 men = 6 women. The new workforce is 15 men + 6 women = 15 men + 5 men = 20 men. Time = Total Work / Workforce = 100 man-days / 20 men = 5 days."
+    },
+    {
+      "id": 16,
+      "category": "English Comprehension",
+      "question": "Choose the word that is an antonym for 'EXPLICIT'.",
+      "options": [
+        "Clear",
+        "Ambiguous",
+        "Precise",
+        "Direct"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Explicit' means stated clearly and in detail, leaving no room for confusion. 'Ambiguous' means open to more than one interpretation, which is the opposite."
+    },
+    {
+      "id": 17,
+      "category": "English Comprehension",
+      "question": "Choose the word that best expresses the meaning of 'EMBEZZLE'.",
+      "options": [
+        "Misappropriate",
+        "Balance",
+        "Remunerate",
+        "Clear"
+      ],
+      "correctAnswer": 0,
+      "explanation": "To 'embezzle' is to steal or misappropriate money placed in one's trust or belonging to the organization for which one works."
+    },
+    {
+      "id": 18,
+      "category": "English Comprehension",
+      "question": "Fill in the blank with the correct verb: 'Neither of the two boys ___ submitted the record.'",
+      "options": [
+        "have",
+        "has",
+        "were",
+        "are"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Words like 'neither', 'either', 'each', and 'every' are singular and require a singular verb. Therefore, 'has' is the correct choice."
+    },
+    {
+      "id": 19,
+      "category": "Nepali Language",
+      "question": "What is the Nepali word for 'Ambassador'?",
+      "options": [
+        "मन्त्री (Mantri)",
+        "सचिव (Sachiv)",
+        "राजदूत (Rajdoot)",
+        "राष्ट्रपति (Rashtrapati)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The correct term for an Ambassador in Nepali is 'राजदूत' (Rajdoot). 'Mantri' is Minister, 'Sachiv' is Secretary, and 'Rashtrapati' is President."
+    },
+    {
+      "id": 20,
+      "category": "Nepali Language",
+      "question": "What is the correct past tense form (भूतकाल) of the verb 'गर्नु' (garnu) for the pronoun 'उ' (u)?",
+      "options": [
+        "गर्यो (garyo)",
+        "गर्छ (garcha)",
+        "गर्नेछ (garnecha)",
+        "गर (gara)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "For the third person singular pronoun 'उ' (he/she), the simple past tense form of 'गर्नु' (to do) is 'गर्यो' (did). 'गर्छ' is present tense, and 'गर्नेछ' is future tense."
+    }
+  ]
+}

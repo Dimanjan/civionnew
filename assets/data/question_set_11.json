@@ -1,0 +1,266 @@
+{
+  "id": "set_11",
+  "title": "General Knowledge & Aptitude Test",
+  "questions": [
+    {
+      "id": 1,
+      "category": "General Knowledge",
+      "question": "Who is known as the 'Iron Man of India'?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Subhas Chandra Bose"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sardar Vallabhbhai Patel is known as the 'Iron Man of India' for his role in the integration of princely states into India."
+    },
+    {
+      "id": 2,
+      "category": "General Knowledge",
+      "question": "The study of inscriptions is known as:",
+      "options": [
+        "Numismatics",
+        "Epigraphy",
+        "Paleography",
+        "Archaeology"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Epigraphy is the study of inscriptions or epigraphs as writing."
+    },
+    {
+      "id": 3,
+      "category": "General Knowledge",
+      "question": "Which of the following is the largest planet in our Solar System?",
+      "options": [
+        "Earth",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Jupiter is the largest planet in our Solar System, with a mass greater than all other planets combined."
+    },
+    {
+      "id": 4,
+      "category": "General Knowledge",
+      "question": "The headquarters of the World Health Organization (WHO) is located in:",
+      "options": [
+        "New York, USA",
+        "Geneva, Switzerland",
+        "Paris, France",
+        "London, UK"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The World Health Organization (WHO) headquarters is located in Geneva, Switzerland."
+    },
+    {
+      "id": 5,
+      "category": "General Knowledge",
+      "question": "What is the currency of Japan?",
+      "options": [
+        "Yuan",
+        "Yen",
+        "Won",
+        "Ringgit"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Japanese Yen (¥) is the official currency of Japan."
+    },
+    {
+      "id": 6,
+      "category": "Logical Reasoning",
+      "question": "Find the next number in the series: 2, 5, 10, 17, 26, ?",
+      "options": [
+        "35",
+        "37",
+        "42",
+        "50"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The pattern is +3, +5, +7, +9, +11. So 26 + 11 = 37."
+    },
+    {
+      "id": 7,
+      "category": "Logical Reasoning",
+      "question": "If 'CAT' is coded as 'DBU', how is 'DOG' coded?",
+      "options": [
+        "EPH",
+        "FQI",
+        "EPH",
+        "FPH"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Each letter is shifted one place forward in the alphabet. D→E, O→P, G→H."
+    },
+    {
+      "id": 8,
+      "category": "Logical Reasoning",
+      "question": "Statement: All birds are animals. A sparrow is a bird. Conclusion:",
+      "options": [
+        "All animals are birds.",
+        "Some animals are sparrows.",
+        "A sparrow is an animal.",
+        "All sparrows are animals."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Based on the transitive property: If all birds are animals and a sparrow is a bird, then all sparrows are animals."
+    },
+    {
+      "id": 9,
+      "category": "Logical Reasoning",
+      "question": "In a row of students, if you are 10th from the left and 11th from the right, how many students are in the row?",
+      "options": [
+        "21",
+        "20",
+        "19",
+        "22"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Total students = Position from left + Position from right - 1 = 10 + 11 - 1 = 20."
+    },
+    {
+      "id": 10,
+      "category": "Logical Reasoning",
+      "question": "Which word does not belong with the others?",
+      "options": [
+        "Inch",
+        "Ounce",
+        "Centimeter",
+        "Yard"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ounce is a unit of weight; the others are units of length."
+    },
+    {
+      "id": 11,
+      "category": "Quantitative Aptitude",
+      "question": "The price of a shirt is increased by 15% and then decreased by 15%. What is the final price of the shirt?",
+      "options": [
+        "It remains the same",
+        "It increases by 2.25%",
+        "It decreases by 2.25%",
+        "It decreases by 22.5%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Let original price be 100. After 15% increase: 115. After 15% decrease: 115 × 0.85 = 97.75. Net decrease = 2.25%."
+    },
+    {
+      "id": 12,
+      "category": "Quantitative Aptitude",
+      "question": "A train 100 meters long is running at a speed of 30 km/hr. The time in which it will pass a man standing near the railway line is:",
+      "options": [
+        "10 seconds",
+        "12 seconds",
+        "15 seconds",
+        "18 seconds"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Speed = 30 km/hr = 30 × (5/18) = 25/3 m/s. Time = Distance/Speed = 100/(25/3) = 12 seconds."
+    },
+    {
+      "id": 13,
+      "category": "Quantitative Aptitude",
+      "question": "If the average of 5 consecutive numbers is 15, what is the largest number?",
+      "options": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "correctAnswer": 2,
+      "explanation": "If average is 15, the middle number is 15. So the numbers are 13, 14, 15, 16, 17. Largest is 17."
+    },
+    {
+      "id": 14,
+      "category": "Quantitative Aptitude",
+      "question": "A can do a piece of work in 10 days, and B can do it in 15 days. In how many days will they do it together?",
+      "options": [
+        "5 days",
+        "6 days",
+        "8 days",
+        "12 days"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A's work per day = 1/10, B's work per day = 1/15. Combined work per day = 1/10 + 1/15 = 5/30 = 1/6. So they complete in 6 days."
+    },
+    {
+      "id": 15,
+      "category": "Quantitative Aptitude",
+      "question": "The simple interest on a sum of Rs. 5000 for 2 years at 10% per annum is:",
+      "options": [
+        "Rs. 500",
+        "Rs. 1000",
+        "Rs. 1500",
+        "Rs. 2000"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Simple Interest = (Principal × Rate × Time)/100 = (5000 × 10 × 2)/100 = Rs. 1000."
+    },
+    {
+      "id": 16,
+      "category": "English Comprehension",
+      "question": "What is the main idea of the passage about education?",
+      "options": [
+        "The challenges of the education system.",
+        "The role of government in education.",
+        "The fundamental importance of education.",
+        "The history of education."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The passage emphasizes that education is the key to personal and societal development and is fundamentally important."
+    },
+    {
+      "id": 17,
+      "category": "English Comprehension",
+      "question": "According to the passage, what is a characteristic of a well-educated population?",
+      "options": [
+        "Apathy towards civic life",
+        "Lack of innovation",
+        "High productivity",
+        "Dependence on others"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The passage states that a well-educated population is more likely to be innovative, productive, and engaged in civic life."
+    },
+    {
+      "id": 18,
+      "category": "English Comprehension",
+      "question": "Choose the word that is most nearly the SAME in meaning to the word 'OBSTINATE':",
+      "options": [
+        "Stubborn",
+        "Flexible",
+        "Compliant",
+        "Understanding"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Obstinate means stubborn or refusing to change one's opinion or course of action."
+    },
+    {
+      "id": 19,
+      "category": "English Comprehension",
+      "question": "Choose the word that is most nearly the OPPOSITE in meaning to the word 'ABUNDANT':",
+      "options": [
+        "Plentiful",
+        "Scarce",
+        "Sufficient",
+        "Rich"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Abundant means existing in large quantities; scarce means insufficient or in short supply."
+    },
+    {
+      "id": 20,
+      "category": "English Comprehension",
+      "question": "Fill in the blank with the most appropriate word: The committee could not come to a __________ decision.",
+      "options": [
+        "unanimous",
+        "united",
+        "single",
+        "collective"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Unanimous means having the agreement of all people involved, which fits the context of a committee decision."
+    }
+  ]
+}

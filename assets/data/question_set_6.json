@@ -1,0 +1,32 @@
+{
+  "id": "set_6",
+  "title": "Question Set 6",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Religion",
+      "question": "Where was Lord Buddha born?",
+      "options": [
+        "Lumbini, Nepal",
+        "Bodh Gaya, India",
+        "Sarnath, India",
+        "Kushinagar, India"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Lord Buddha was born in Lumbini, Nepal in 623 BC, which is now a UNESCO World Heritage Site."
+    },
+    {
+      "id": 2,
+      "category": "Environment",
+      "question": "Which national park is the first national park in Nepal?",
+      "options": [
+        "Chitwan National Park",
+        "Sagarmatha National Park",
+        "Bardiya National Park",
+        "Langtang National Park"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Chitwan National Park, established in 1973, is the first national park in Nepal and a UNESCO World Heritage Site."
+    }
+  ]
+} 

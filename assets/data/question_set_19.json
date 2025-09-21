@@ -1,0 +1,266 @@
+{
+  "id": "set_19",
+  "title": "General Knowledge & Aptitude Test (Nepal) - Set 8",
+  "questions": [
+    {
+      "id": 1,
+      "category": "General Knowledge",
+      "question": "The campaign for the unification of Nepal was initiated by King Prithvi Narayan Shah from which kingdom?",
+      "options": [
+        "Kathmandu",
+        "Bhaktapur",
+        "Gorkha",
+        "Patan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Prithvi Narayan Shah was the king of the Gorkha Kingdom, from where he began his ambitious military campaign to unify the smaller principalities into a single nation, Nepal."
+    },
+    {
+      "id": 2,
+      "category": "General Knowledge",
+      "question": "'Ghodaghodi Tal', a Ramsar wetland site, is located in which district of Nepal?",
+      "options": [
+        "Chitwan",
+        "Kailali",
+        "Bardiya",
+        "Kanchanpur"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Ghodaghodi Lake complex, a significant wetland area and Ramsar site, is situated in the Kailali District of the Sudurpashchim Province."
+    },
+    {
+      "id": 3,
+      "category": "General Knowledge",
+      "question": "The 'Raute' are a nomadic indigenous group primarily found in which region of Nepal?",
+      "options": [
+        "Eastern Terai",
+        "Kathmandu Valley",
+        "Western Hills",
+        "Far-Western Hills"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Raute people, known for their unique hunter-gatherer lifestyle, traditionally inhabit the remote forests of the Far-Western and Karnali hills of Nepal."
+    },
+    {
+      "id": 4,
+      "category": "General Knowledge",
+      "question": "According to the Constitution of Nepal, what are the primary units of local government?",
+      "options": [
+        "Districts and Zones",
+        "Village Development Committees and Municipalities",
+        "Gaunpalikas and Nagarpalikas",
+        "Regions and Sub-regions"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The constitution established a three-tiered government structure, with Gaunpalikas (Rural Municipalities) and Nagarpalikas (Municipalities) forming the local level of government."
+    },
+    {
+      "id": 5,
+      "category": "General Knowledge",
+      "question": "What is the standard unit of measurement for electrical resistance?",
+      "options": [
+        "Ampere",
+        "Volt",
+        "Watt",
+        "Ohm"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Ohm (symbol: Ω) is the SI derived unit of electrical resistance. Ampere measures current, Volt measures voltage, and Watt measures power."
+    },
+    {
+      "id": 6,
+      "category": "Logical Reasoning",
+      "question": "Find the next term in the series: 2, 6, 12, 20, 30, ?",
+      "options": [
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The pattern is the addition of consecutive even numbers: 2+4=6, 6+6=12, 12+8=20, 20+10=30. The next step is to add 12, so 30+12=42. Another way to see it is n² + n: 1²+1=2, 2²+2=6, ..., 6²+6=42."
+    },
+    {
+      "id": 7,
+      "category": "Logical Reasoning",
+      "question": "In a certain code, 'GLOBE' is written as 'FKNAD'. How is 'WATCH' written in that code?",
+      "options": [
+        "VBSBG",
+        "VZSBG",
+        "VBSBH",
+        "VZTBG"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The pattern is to move each letter one position backward in the alphabet. G-1=F, L-1=K, O-1=N, B-1=A, E-1=D. Following this, W-1=V, A-1=Z, T-1=S, C-1=B, H-1=G."
+    },
+    {
+      "id": 8,
+      "category": "Logical Reasoning",
+      "question": "Lawyer is to Court as Scientist is to ____?",
+      "options": [
+        "Research",
+        "Experiment",
+        "Laboratory",
+        "Discovery"
+      ],
+      "correctAnswer": 2,
+      "explanation": "This is a workplace analogy. A lawyer's primary place of work is a court, and a scientist's primary place of work is a laboratory."
+    },
+    {
+      "id": 9,
+      "category": "Logical Reasoning",
+      "question": "Which of the following months is the odd one out?",
+      "options": [
+        "January",
+        "May",
+        "July",
+        "November"
+      ],
+      "correctAnswer": 3,
+      "explanation": "January, May, and July all have 31 days. November has only 30 days."
+    },
+    {
+      "id": 10,
+      "category": "Logical Reasoning",
+      "question": "Which Venn diagram best represents the relationship between Elephants, Wolves, and Animals?",
+      "options": [
+        "Two separate circles inside a larger circle",
+        "Three overlapping circles",
+        "Three separate circles",
+        "Two overlapping circles inside a larger circle"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Elephants and Wolves are two distinct types of animals that do not overlap. Both categories, however, fall under the larger category of Animals."
+    },
+    {
+      "id": 11,
+      "category": "Quantitative Aptitude",
+      "question": "A number is first increased by 10% and then decreased by 10%. If the final number is 99, what was the original number?",
+      "options": [
+        "99",
+        "100",
+        "101",
+        "110"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Let the number be x. After a 10% increase, it's 1.1x. After a 10% decrease, it's 1.1x * 0.9 = 0.99x. So, 0.99x = 99, which means x = 100. A successive increase and decrease of the same percentage always results in a net loss."
+    },
+    {
+      "id": 12,
+      "category": "Quantitative Aptitude",
+      "question": "By selling an item for Rs. 100, a man gains Rs. 15. His gain percentage is:",
+      "options": [
+        "15%",
+        "12.5%",
+        "17.65%",
+        "20%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The gain is Rs. 15 and the Selling Price (SP) is Rs. 100. Therefore, the Cost Price (CP) = SP - Gain = 100 - 15 = Rs. 85. The gain percentage is (Gain / CP) × 100 = (15 / 85) × 100 ≈ 17.65%."
+    },
+    {
+      "id": 13,
+      "category": "Quantitative Aptitude",
+      "question": "A sum of Rs. 12,500 amounts to Rs. 15,500 in 4 years at simple interest. What is the rate of interest?",
+      "options": [
+        "3%",
+        "4%",
+        "5%",
+        "6%"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Simple Interest (SI) earned is 15,500 - 12,500 = Rs. 3,000. Using the formula Rate = (SI × 100) / (Principal × Time), Rate = (3000 × 100) / (12500 × 4) = 300000 / 50000 = 6%."
+    },
+    {
+      "id": 14,
+      "category": "Quantitative Aptitude",
+      "question": "A car travels at 60 km/hr and reaches a destination in 4 hours. How long will it take if the car travels at 80 km/hr?",
+      "options": [
+        "2.5 hours",
+        "3 hours",
+        "3.5 hours",
+        "4 hours"
+      ],
+      "correctAnswer": 1,
+      "explanation": "First, find the total distance: Distance = Speed × Time = 60 km/hr × 4 hr = 240 km. Now, find the new time: Time = Distance / New Speed = 240 km / 80 km/hr = 3 hours."
+    },
+    {
+      "id": 15,
+      "category": "Quantitative Aptitude",
+      "question": "The average age of 30 students is 9 years. If the teacher's age is included, the average becomes 10 years. What is the teacher's age?",
+      "options": [
+        "27",
+        "30",
+        "31",
+        "40"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The total age of the students is 30 × 9 = 270 years. With the teacher, there are 31 people and the total age is 31 × 10 = 310 years. The teacher's age is the difference: 310 - 270 = 40 years."
+    },
+    {
+      "id": 16,
+      "category": "English Comprehension",
+      "question": "Fill in the blank with the correct verb: 'A lot of work ___ yet to be done.'",
+      "options": [
+        "is",
+        "are",
+        "have",
+        "were"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The noun 'work' is uncountable and treated as singular. Therefore, it requires the singular verb 'is'."
+    },
+    {
+      "id": 17,
+      "category": "English Comprehension",
+      "question": "A person who is new to a profession, skill, or situation is called a:",
+      "options": [
+        "Veteran",
+        "Expert",
+        "Novice",
+        "Professional"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A 'novice' is a beginner or someone with no prior experience in a specific field. A veteran is experienced, and an expert is highly skilled."
+    },
+    {
+      "id": 18,
+      "category": "English Comprehension",
+      "question": "Choose the word that is an antonym for 'VIVID'.",
+      "options": [
+        "Bright",
+        "Clear",
+        "Dull",
+        "Colorful"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Vivid' means producing powerful feelings or strong, clear images in the mind. 'Dull' means lacking brightness, interest, or excitement, making it the opposite."
+    },
+    {
+      "id": 19,
+      "category": "Nepali Language",
+      "question": "What is the correct Nepali word for 'environment'?",
+      "options": [
+        "मौसम (Mausam)",
+        "प्रकृति (Prakriti)",
+        "हावापानी (Hawapani)",
+        "वातावरण (Vatavaran)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'वातावरण' (Vatavaran) is the comprehensive term for environment. 'Mausam' is weather, 'Prakriti' is nature, and 'Hawapani' is climate."
+    },
+    {
+      "id": 20,
+      "category": "Nepali Language",
+      "question": "Identify the adjective (विशेषण) in the sentence: 'रातो गाडी छिटो कुद्छ।' (Rato gadi chito kudchha)",
+      "options": [
+        "गाडी (gadi)",
+        "छिटो (chito)",
+        "कुद्छ (kudchha)",
+        "रातो (rato)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The word 'रातो' (rato), meaning 'red', describes the noun 'गाडी' (gadi - car), so it is the adjective. 'छिटो' (chito - fast) is an adverb describing the verb 'कुद्छ' (kudchha - runs)."
+    }
+  ]
+}

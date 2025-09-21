@@ -1,0 +1,265 @@
+{
+  "id": "set_22",
+  "title": "General Knowledge & Aptitude Test (Nepal) - Set 11",
+  "questions": [
+    {
+      "id": 1,
+      "category": "General Knowledge",
+      "question": "Who is generally considered the first historical king of the Licchavi dynasty in Nepal?",
+      "options": [
+        "Manadeva",
+        "Amshuverma",
+        "Jayadeva I",
+        "Vrishadeva"
+      ],
+      "correctAnswer": 2,
+      "explanation": "While Manadeva is the most famous early Licchavi king with the earliest known inscription, historical chronicles generally credit Jayadeva I as the first king who established the Licchavi rule in Nepal."
+    },
+    {
+      "id": 2,
+      "category": "General Knowledge",
+      "question": "Rara Lake, the largest freshwater lake in the Nepalese Himalayas, is located in which district?",
+      "options": [
+        "Jumla",
+        "Humla",
+        "Dolpa",
+        "Mugu"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Rara Lake, also known as 'Mahendra Tal', is the largest lake in Nepal and is situated in the Mugu district of the Karnali Province."
+    },
+    {
+      "id": 3,
+      "category": "General Knowledge",
+      "question": "The 'Chhath' festival, dedicated to the Sun God (Surya), is primarily celebrated by which community in the Terai region?",
+      "options": [
+        "Tharu",
+        "Maithili and Bhojpuri speaking communities",
+        "Rajbanshi",
+        "Dhimal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chhath is a major ancient festival with deep cultural roots, predominantly celebrated by the Maithili and Bhojpuri-speaking people in the Terai plains of Nepal and India."
+    },
+    {
+      "id": 4,
+      "category": "General Knowledge",
+      "question": "What is the current total number of districts in Nepal?",
+      "options": [
+        "75",
+        "76",
+        "77",
+        "78"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Originally, Nepal had 75 districts. Later, Nawalparasi and Rukum were split into two districts each, bringing the total number of districts to 77."
+    },
+    {
+      "id": 5,
+      "category": "General Knowledge",
+      "question": "In which year did Nepal formally become a member of the World Trade Organization (WTO)?",
+      "options": [
+        "1995",
+        "2000",
+        "2004",
+        "2008"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nepal became the 147th member of the World Trade Organization on 23 April 2004, after a long process of accession."
+    },
+    {
+      "id": 6,
+      "category": "Logical Reasoning",
+      "question": "Find the missing number in the series: 6, 11, 21, 36, 56, ?",
+      "options": [
+        "78",
+        "81",
+        "82",
+        "86"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The difference between consecutive numbers increases by 5 each time: (11-6=5), (21-11=10), (36-21=15), (56-36=20). The next difference will be 25. So, 56 + 25 = 81."
+    },
+    {
+      "id": 7,
+      "category": "Logical Reasoning",
+      "question": "In a certain code, 'ROAST' is written as 'PQYUR'. How is 'SLOPPY' written?",
+      "options": [
+        "QNMRNA",
+        "QMNRNA",
+        "QNMRMA",
+        "QNMRNB"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The pattern is an alternating sequence of -2 and +2. R-2=P, O+2=Q, A-2=Y, S+2=U, T-2=R. Applying this to 'SLOPPY': S-2=Q, L+2=N, O-2=M, P+2=R, P-2=N, Y+2=A."
+    },
+    {
+      "id": 8,
+      "category": "Logical Reasoning",
+      "question": "Ink is to Pen as Petrol is to ____?",
+      "options": [
+        "Car",
+        "Engine",
+        "Drive",
+        "Road"
+      ],
+      "correctAnswer": 0,
+      "explanation": "This is a functional analogy. Ink is the essential consumable 'fuel' that makes a pen work, just as petrol is the fuel that makes a car work."
+    },
+    {
+      "id": 9,
+      "category": "Logical Reasoning",
+      "question": "Which of the following cities is the odd one out?",
+      "options": [
+        "Kathmandu",
+        "Pokhara",
+        "Thimphu",
+        "Biratnagar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Thimphu is the capital city of Bhutan. Kathmandu, Pokhara, and Biratnagar are all major cities within Nepal."
+    },
+    {
+      "id": 10,
+      "category": "Logical Reasoning",
+      "question": "Which Venn diagram best represents the relationship: Mothers, Women, Engineers?",
+      "options": [
+        "Three completely separate circles",
+        "One circle inside another, with a third overlapping only the outer one",
+        "One circle inside another, with a third overlapping both",
+        "Three circles all overlapping each other"
+      ],
+      "correctAnswer": 2,
+      "explanation": "All Mothers are Women, so the 'Mothers' circle is entirely inside the 'Women' circle. The 'Engineers' circle overlaps both, as some engineers are women, and some of those women are also mothers."
+    },
+    {
+      "id": 11,
+      "category": "Quantitative Aptitude",
+      "question": "A and B can do a work in 12 days. B alone can do it in 30 days. In how many days can A alone do the work?",
+      "options": [
+        "18 days",
+        "20 days",
+        "24 days",
+        "25 days"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A and B's one-day work is 1/12. B's one-day work is 1/30. Therefore, A's one-day work is (1/12) - (1/30) = (5-2)/60 = 3/60 = 1/20. So, A alone can finish the work in 20 days."
+    },
+    {
+      "id": 12,
+      "category": "Quantitative Aptitude",
+      "question": "A dishonest dealer sells goods at a 10% loss on cost price but uses 20% less weight. What is his profit or loss percent?",
+      "options": [
+        "10% loss",
+        "12.5% profit",
+        "10% profit",
+        "12.5% loss"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Let CP of 1000 gm be Rs 100. He sells at 10% loss, so SP = Rs 90. He gives 20% less weight, i.e., 800 gm. The CP of 800 gm is Rs 80. He makes a profit of Rs 10 on an investment of Rs 80. Profit % = (10/80) × 100 = 12.5%."
+    },
+    {
+      "id": 13,
+      "category": "Quantitative Aptitude",
+      "question": "The simple interest on a sum is 4/9 of the principal. If the rate and time (in years) are numerically equal, find the rate.",
+      "options": [
+        "5%",
+        "6%",
+        "6.66%",
+        "7.5%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Let Rate=R and Time=R. We have SI = (P×R×T)/100. Given SI=4P/9. So, 4P/9 = (P×R×R)/100. This simplifies to R² = 400/9. Taking the square root, R = 20/3 = 6.66%."
+    },
+    {
+      "id": 14,
+      "category": "Quantitative Aptitude",
+      "question": "The average of 50 numbers is 30. If two numbers, 35 and 40, are discarded, what is the average of the remaining numbers?",
+      "options": [
+        "29.68",
+        "28.32",
+        "29.27",
+        "28.96"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The total sum of the 50 numbers is 50 × 30 = 1500. The sum of the two discarded numbers is 35 + 40 = 75. The new sum is 1500 - 75 = 1425. There are now 48 numbers. The new average is 1425 / 48 ≈ 29.68."
+    },
+    {
+      "id": 15,
+      "category": "Quantitative Aptitude",
+      "question": "The population of a town, which was 160,000 three years ago, increased by 3%, 2.5%, and 5% in the last three years. What is its present population?",
+      "options": [
+        "177,366",
+        "176,366",
+        "175,366",
+        "174,366"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The present population is calculated by applying the percentage increases successively: 160,000 × (1 + 3/100) × (1 + 2.5/100) × (1 + 5/100) = 160,000 × 1.03 × 1.025 × 1.05 = 177,366."
+    },
+    {
+      "id": 16,
+      "category": "English Comprehension",
+      "question": "Fill in the blank: 'My friend, along with his parents, ___ arrived.'",
+      "options": [
+        "have",
+        "has",
+        "are",
+        "were"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The subject of the sentence is 'My friend' (singular). The phrase 'along with his parents' is an interrupter and does not change the subject. Therefore, the singular verb 'has' is required."
+    },
+    {
+      "id": 17,
+      "category": "English Comprehension",
+      "question": "A 'panacea' is best described as a:",
+      "options": [
+        "type of bacteria",
+        "remedy for all diseases",
+        "musical instrument",
+        "detailed plan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A panacea is a solution or remedy that is claimed to solve all problems or cure all diseases. It is often used to refer to a hypothetical 'cure-all'."
+    },
+    {
+      "id": 18,
+      "category": "English Comprehension",
+      "question": "Choose the word most similar in meaning to 'UBIQUITOUS'.",
+      "options": [
+        "Rare",
+        "Scarce",
+        "Omnipresent",
+        "Hidden"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Ubiquitous' means present, appearing, or found everywhere. 'Omnipresent' has the same meaning. The other options are antonyms."
+    },
+    {
+      "id": 19,
+      "category": "Nepali Language",
+      "question": "What is the correct Nepali word for 'judiciary'?",
+      "options": [
+        "व्यवस्थापिका (Byabasthapika)",
+        "कार्यपालिका (Karyapalika)",
+        "न्यायपालिका (Nyayapalika)",
+        "संसद (Sansad)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The term for the judiciary is 'न्यायपालिका' (Nyayapalika). 'Byabasthapika' is the legislature, 'Karyapalika' is the executive, and 'Sansad' is parliament."
+    },
+    {
+      "id": 20,
+      "category": "Nepali Language",
+      "question": "Identify the pronoun (सर्वनाम) in the sentence: 'उ घर गयो।' (U ghar gayo)",
+      "options": [
+        "उ (u)",
+        "घर (ghar)",
+        "गयो (gayo)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The word 'उ' (u) means 'he' or 'she' and is a pronoun that takes the place of a noun (a person's name). 'घर' (ghar) is a noun and 'गयो' (gayo) is a verb."
+    }
+  ]
+}

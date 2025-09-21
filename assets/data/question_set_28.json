@@ -1,0 +1,266 @@
+{
+  "id": "set_28",
+  "title": "General Knowledge & Aptitude Test (Nepal) - Set 17",
+  "questions": [
+    {
+      "id": 1,
+      "category": "General Knowledge",
+      "question": "The 'Prachanda Gorkha' was an underground political group formed in 1931 AD with the aim of overthrowing which regime?",
+      "options": [
+        "Malla Dynasty",
+        "Shah Monarchy",
+        "Rana Regime",
+        "Panchayat System"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Prachanda Gorkha was one of the first organized political movements in Nepal, founded by a group of youths with the explicit goal of ending the autocratic Rana Regime."
+    },
+    {
+      "id": 2,
+      "category": "General Knowledge",
+      "question": "The Sunkoshi River is a major tributary of which larger river system in Nepal?",
+      "options": [
+        "Koshi",
+        "Gandaki",
+        "Karnali",
+        "Mahakali"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Sunkoshi is one of the seven major rivers that converge to form the Sapta Koshi River system, the largest river system in Nepal."
+    },
+    {
+      "id": 3,
+      "category": "General Knowledge",
+      "question": "'Lhosar' is the New Year festival celebrated by which major ethnic communities in Nepal?",
+      "options": [
+        "Tharu and Maithil",
+        "Newar and Magar",
+        "Tamang, Gurung, and Sherpa",
+        "Rai and Limbu"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lhosar, meaning 'New Year', is the most important festival for several communities that follow Tibetan Buddhism, including the Tamang, Gurung, and Sherpa, each celebrating their own version of the festival (Sonam Lhosar, Tamu Lhosar, and Gyalpo Lhosar)."
+    },
+    {
+      "id": 4,
+      "category": "General Knowledge",
+      "question": "In the Constitution of Nepal, what is the minimum age for a citizen to be eligible to vote in elections?",
+      "options": [
+        "16 years",
+        "18 years",
+        "21 years",
+        "25 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 84(5) of the Constitution of Nepal states that every Nepali citizen who has completed the age of eighteen years shall have the right to vote in any one election constituency."
+    },
+    {
+      "id": 5,
+      "category": "General Knowledge",
+      "question": "The headquarters of the International Labour Organization (ILO) is located in which city?",
+      "options": [
+        "Paris, France",
+        "The Hague, Netherlands",
+        "Geneva, Switzerland",
+        "Rome, Italy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The ILO, a United Nations agency whose mandate is to advance social and economic justice through setting international labour standards, is headquartered in Geneva, Switzerland."
+    },
+    {
+      "id": 6,
+      "category": "Logical Reasoning",
+      "question": "Find the missing number in the series: 5, 16, 49, 104, ?",
+      "options": [
+        "115",
+        "148",
+        "170",
+        "181"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The pattern is based on the difference between the numbers. The differences are 11, 33, 55 (multiples of 11 with odd numbers: 11x1, 11x3, 11x5). The next difference will be 11x7 = 77. So, 104 + 77 = 181."
+    },
+    {
+      "id": 7,
+      "category": "Logical Reasoning",
+      "question": "In a certain code, 'REASON' is coded as 'SDBRPM'. How is 'THINK' coded?",
+      "options": [
+        "UGJML",
+        "UGJLM",
+        "UHJML",
+        "UGKML"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The pattern is an alternating sequence of +1 and -1. R+1=S, E-1=D, A+1=B, S-1=R, O+1=P, N-1=M. Applying this to 'THINK': T+1=U, H-1=G, I+1=J, N-1=M, K+1=L."
+    },
+    {
+      "id": 8,
+      "category": "Logical Reasoning",
+      "question": "Country is to President as State (Province) is to ____?",
+      "options": [
+        "Prime Minister",
+        "Governor",
+        "Chief Minister",
+        "Mayor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This is an analogy of constitutional heads of government. The President is the ceremonial head of the country, while the Governor (Pradesh Pramukh in Nepal) is the ceremonial head of a province."
+    },
+    {
+      "id": 9,
+      "category": "Logical Reasoning",
+      "question": "Five books are arranged on a shelf. D is above A, A is above E, C is immediately below D, and B is immediately below E. Which book is at the bottom?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Following the clues, the arrangement from top to bottom is: D, C, A, E, B. Therefore, book B is at the bottom."
+    },
+    {
+      "id": 10,
+      "category": "Logical Reasoning",
+      "question": "Which of the following is the odd one out?",
+      "options": [
+        "Sparrow",
+        "Swan",
+        "Parrot",
+        "Bat"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A bat is a mammal. Sparrows, swans, and parrots are all birds."
+    },
+    {
+      "id": 11,
+      "category": "Quantitative Aptitude",
+      "question": "A man's new salary is Rs. 1,54,000 after a 10% increase. What was his original salary?",
+      "options": [
+        "Rs. 1,60,000",
+        "Rs. 1,50,000",
+        "Rs. 1,40,000",
+        "Rs. 1,35,000"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The new salary represents 110% of the original salary. To find the original salary, divide the new salary by 1.10. Original Salary = 154,000 / 1.10 = Rs. 1,40,000."
+    },
+    {
+      "id": 12,
+      "category": "Quantitative Aptitude",
+      "question": "A shopkeeper buys 10 articles for Rs. 8 and sells 8 articles for Rs. 10. What is his gain percent?",
+      "options": [
+        "50.25%",
+        "52.5%",
+        "54.75%",
+        "56.25%"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The cost price of 1 article is 8/10 = Rs. 0.8. The selling price of 1 article is 10/8 = Rs. 1.25. The gain on one article is 1.25 - 0.80 = 0.45. The gain percent is (Gain / CP) × 100 = (0.45 / 0.80) × 100 = 56.25%."
+    },
+    {
+      "id": 13,
+      "category": "Quantitative Aptitude",
+      "question": "If a sum of money doubles in 6 years at simple interest, it will become 4 times itself in how many years?",
+      "options": [
+        "12 years",
+        "16 years",
+        "18 years",
+        "24 years"
+      ],
+      "correctAnswer": 2,
+      "explanation": "To double, the interest earned (SI) must equal the principal (P). This takes 6 years. To become 4 times, the interest earned must be 3 times the principal (3P). Since the rate is constant, if earning P takes 6 years, earning 3P will take 3 × 6 = 18 years."
+    },
+    {
+      "id": 14,
+      "category": "Quantitative Aptitude",
+      "question": "Walking at 5/6 of its usual speed, a train is 10 minutes late. What is its usual time to cover the journey?",
+      "options": [
+        "40 minutes",
+        "50 minutes",
+        "60 minutes",
+        "70 minutes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Let the usual speed be S and usual time be T. Distance = S×T. The new speed is (5/6)S and the new time is (T+10). So, S×T = (5/6)S × (T+10). Canceling S, we get T = (5/6)(T+10). 6T = 5T + 50. Therefore, T = 50 minutes."
+    },
+    {
+      "id": 15,
+      "category": "Quantitative Aptitude",
+      "question": "The average of the first 100 positive integers is:",
+      "options": [
+        "50",
+        "50.5",
+        "51",
+        "51.5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The formula for the average of the first n positive integers is (n + 1) / 2. For n=100, the average is (100 + 1) / 2 = 50.5."
+    },
+    {
+      "id": 16,
+      "category": "English Comprehension",
+      "question": "Fill in the blank: 'This is the boy ___ parents died in an accident.'",
+      "options": [
+        "who",
+        "whom",
+        "whose",
+        "which"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Whose' is the possessive pronoun used to show that the parents belong to the boy."
+    },
+    {
+      "id": 17,
+      "category": "English Comprehension",
+      "question": "The word 'inaudible' means:",
+      "options": [
+        "not able to be heard.",
+        "not suitable to be eaten.",
+        "not possible to be corrected.",
+        "not clear enough to be read."
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Inaudible' combines the prefix 'in-' (not) with 'audible' (able to be heard), so it means unable to be heard."
+    },
+    {
+      "id": 18,
+      "category": "English Comprehension",
+      "question": "Choose the word that is an antonym for 'OPTIMISTIC'.",
+      "options": [
+        "Hopeful",
+        "Cheerful",
+        "Pessimistic",
+        "Idealistic"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Optimistic' means hopeful and confident about the future. 'Pessimistic' means tending to see the worst aspect of things or believe that the worst will happen, making it the direct opposite."
+    },
+    {
+      "id": 19,
+      "category": "Nepali Language",
+      "question": "What is the correct Nepali term for 'heritage site'?",
+      "options": [
+        "सम्पदा स्थल (Sampada Sthal)",
+        "पर्यटकीय स्थल (Paryatakiya Sthal)",
+        "ऐतिहासिक ठाउँ (Aitihasik Thau)",
+        "धार्मिक ठाउँ (Dharmik Thau)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The official and most accurate term for a heritage site is 'सम्पदा स्थल' (Sampada Sthal). The other terms mean 'tourist spot', 'historical place', and 'religious place'."
+    },
+    {
+      "id": 20,
+      "category": "Nepali Language",
+      "question": "What is the future tense (भविष्यत् काल) of the verb 'गर्नु' (garnu) for the pronoun 'म' (ma)?",
+      "options": [
+        "गर्छु (garchhu)",
+        "गरें (gare)",
+        "गर्नेछु (garnechhu)",
+        "गरेँ (garẽ)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The future tense for the first-person singular pronoun 'म' (ma - I) is formed with 'गर्नेछु' (garnechhu - I will do). 'गर्छु' is present tense, and 'गरें/गरेँ' are past tense forms."
+    }
+  ]
+}

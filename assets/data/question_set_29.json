@@ -1,0 +1,266 @@
+{
+  "id": "set_29",
+  "title": "General Knowledge & Aptitude Test (Nepal) - Set 18",
+  "questions": [
+    {
+      "id": 1,
+      "category": "General Knowledge",
+      "question": "Who was the Prime Minister of the interim government formed immediately after the 1990 People's Movement (Jana Andolan I)?",
+      "options": [
+        "Marich Man Singh Shrestha",
+        "Lokendra Bahadur Chand",
+        "Krishna Prasad Bhattarai",
+        "Girija Prasad Koirala"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Krishna Prasad Bhattarai of the Nepali Congress was appointed as the Prime Minister of the interim government in 1990 to oversee the transition to a constitutional monarchy and multiparty democracy."
+    },
+    {
+      "id": 2,
+      "category": "General Knowledge",
+      "question": "The Tinau River, on the banks of which the city of Butwal lies, is a tributary of which major river system?",
+      "options": [
+        "West Rapti River (which joins the Karnali)",
+        "Gandaki River",
+        "Babai River",
+        "Koshi River"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Tinau River flows south from the Mahabharat Range and eventually joins the West Rapti River in India, which itself is a major tributary of the Ghaghara (Karnali) river system."
+    },
+    {
+      "id": 3,
+      "category": "General Knowledge",
+      "question": "What is 'Ghintang Ghisi', a popular dance performed during the Gai Jatra festival in the Kathmandu Valley?",
+      "options": [
+        "A stick dance",
+        "A mask dance",
+        "A fire dance",
+        "A sword dance"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ghintang Ghisi is a traditional rhythmic stick dance performed by groups of people, mainly from the Ghasi community, during the festival of Gai Jatra."
+    },
+    {
+      "id": 4,
+      "category": "General Knowledge",
+      "question": "What is the national anthem of Nepal?",
+      "options": [
+        "\"Shreeman Gambhir\"",
+        "\"Gauchha Geet Nepali\"",
+        "\"Sayaun Thunga Phool Ka\"",
+        "\"Rato Ra Chandra Surya\""
+      ],
+      "correctAnswer": 2,
+      "explanation": "\"Sayaun Thunga Phool Ka\" (Made of Hundreds of Flowers) was adopted as the national anthem of Nepal on August 3, 2007, replacing the previous anthem, \"Shreeman Gambhir\"."
+    },
+    {
+      "id": 5,
+      "category": "General Knowledge",
+      "question": "Which scientific instrument is used to measure atmospheric pressure?",
+      "options": [
+        "Thermometer",
+        "Barometer",
+        "Hygrometer",
+        "Anemometer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A barometer is used to measure atmospheric pressure. A thermometer measures temperature, a hygrometer measures humidity, and an anemometer measures wind speed."
+    },
+    {
+      "id": 6,
+      "category": "Logical Reasoning",
+      "question": "Find the next number in the series of prime numbers: 2, 3, 5, 7, 11, 13, ?",
+      "options": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The series consists of consecutive prime numbers. The next prime number after 13 is 17."
+    },
+    {
+      "id": 7,
+      "category": "Logical Reasoning",
+      "question": "In a certain code, 'MONKEY' is written as 'XDJMNL'. How is 'TIGER' written?",
+      "options": [
+        "SHFDQ",
+        "QDFHS",
+        "SDFHS",
+        "QDFGS"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The pattern is to reverse the word and then shift each letter one position back in the alphabet. 'MONKEY' reversed is 'YEKnom'. Y-1=X, E-1=D, K-1=J, N-1=M, O-1=N, M-1=L. 'TIGER' reversed is 'REGIT'. R-1=Q, E-1=D, G-1=F, I-1=H, T-1=S."
+    },
+    {
+      "id": 8,
+      "category": "Logical Reasoning",
+      "question": "Grain is to Stock as Stick is to ____?",
+      "options": [
+        "Heap",
+        "Bundle",
+        "Collection",
+        "String"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This is an analogy of collective nouns. A large quantity of grain stored for future use is a stock, and a collection of sticks tied together is a bundle."
+    },
+    {
+      "id": 9,
+      "category": "Logical Reasoning",
+      "question": "Five friends are in a row. Mohan is between Raju and Priya. Priya is to the immediate right of Lata. Sohan is at the extreme right. Who is second from the left?",
+      "options": [
+        "Mohan",
+        "Raju",
+        "Priya",
+        "Lata"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The clues 'Priya is to the immediate right of Lata' (L-P) and 'Mohan is between Priya and Raju' establish the block 'L-P-M-R'. With Sohan at the extreme right, the full order is: Lata, Priya, Mohan, Raju, Sohan. The person second from the left is Priya."
+    },
+    {
+      "id": 10,
+      "category": "Logical Reasoning",
+      "question": "Which of the following is the odd one out?",
+      "options": [
+        "Curd",
+        "Butter",
+        "Cheese",
+        "Oil"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Curd, butter, and cheese are all dairy products, made from milk. Oil is typically derived from plants or animals but is not a dairy product."
+    },
+    {
+      "id": 11,
+      "category": "Quantitative Aptitude",
+      "question": "If A's height is 10% more than B's, by how much percent is B's height less than A's?",
+      "options": [
+        "10%",
+        "9%",
+        "9 1/11 %",
+        "11 1/9 %"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Let B's height be 100. Then A's height is 110. The difference is 10. The percentage by which B is less than A is calculated with respect to A's height: (10 / 110) × 100 = 100 / 11 = 9 1/11 %."
+    },
+    {
+      "id": 12,
+      "category": "Quantitative Aptitude",
+      "question": "A man gains 20% by selling an article for a certain price. If he sells it at double the price, what will be the new profit percentage?",
+      "options": [
+        "40%",
+        "100%",
+        "120%",
+        "140%"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Let the Cost Price (CP) be 100. A 20% gain means the Selling Price (SP) is 120. If he sells it at double the price, the new SP is 2 × 120 = 240. The new profit is 240 - 100 = 140. The new profit percentage is (140 / 100) × 100 = 140%."
+    },
+    {
+      "id": 13,
+      "category": "Quantitative Aptitude",
+      "question": "A sum was put at simple interest. Had the rate been 3% higher, it would have fetched Rs. 300 more in 2 years. Find the sum.",
+      "options": [
+        "Rs. 5000",
+        "Rs. 6000",
+        "Rs. 7000",
+        "Rs. 8000"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The extra interest comes from the 3% higher rate over 2 years, which amounts to a total of 6% of the principal. So, 6% of the sum = Rs. 300. The sum = (300 / 6) × 100 = Rs. 5000."
+    },
+    {
+      "id": 14,
+      "category": "Quantitative Aptitude",
+      "question": "A 110m long train runs at 60 km/hr. In what time will it pass a man running at 6 km/hr in the opposite direction?",
+      "options": [
+        "5 sec",
+        "6 sec",
+        "7 sec",
+        "10 sec"
+      ],
+      "correctAnswer": 1,
+      "explanation": "When moving in opposite directions, the relative speed is the sum of their speeds: 60 + 6 = 66 km/hr. Convert to m/s: 66 × (5/18) = 55/3 m/s. The distance to cover is the length of the train. Time = Distance / Speed = 110 / (55/3) = (110 × 3) / 55 = 6 seconds."
+    },
+    {
+      "id": 15,
+      "category": "Quantitative Aptitude",
+      "question": "What is the average of the first 7 odd numbers (1, 3, 5, 7, 9, 11, 13)?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctAnswer": 1,
+      "explanation": "For any arithmetic progression, the average is the middle number. In the series of 7 numbers, the middle (4th) number is 7. Alternatively, the sum is 49, and 49 / 7 = 7."
+    },
+    {
+      "id": 16,
+      "category": "English Comprehension",
+      "question": "Fill in the blank: 'A pair of scissors ___ lying on the table.'",
+      "options": [
+        "is",
+        "are",
+        "have",
+        "were"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The subject of the sentence is 'A pair', which is singular and requires a singular verb. Therefore, 'is' is the correct choice."
+    },
+    {
+      "id": 17,
+      "category": "English Comprehension",
+      "question": "An 'atheist' is a person who:",
+      "options": [
+        "believes in God.",
+        "disbelieves or lacks belief in the existence of God.",
+        "is uncertain about the existence of God.",
+        "believes in fate."
+      ],
+      "correctAnswer": 1,
+      "explanation": "An atheist is someone who does not believe in the existence of a god or any gods. An agnostic is someone who is uncertain."
+    },
+    {
+      "id": 18,
+      "category": "English Comprehension",
+      "question": "Choose the word that is an antonym for 'ANCIENT'.",
+      "options": [
+        "Old",
+        "Past",
+        "Modern",
+        "Aged"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Ancient' refers to something belonging to the very distant past. 'Modern' refers to the present or recent times, making it the direct opposite. The other options are synonyms."
+    },
+    {
+      "id": 19,
+      "category": "Nepali Language",
+      "question": "What is the correct Nepali word for 'corruption'?",
+      "options": [
+        "अपराध (Aparadh)",
+        "अन्याय (Anyaya)",
+        "शोषण (Shoshan)",
+        "भ्रष्टाचार (Bhrashtachar)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The specific term for corruption is 'भ्रष्टाचार' (Bhrashtachar). 'Aparadh' is crime, 'Anyaya' is injustice, and 'Shoshan' is exploitation."
+    },
+    {
+      "id": 20,
+      "category": "Nepali Language",
+      "question": "Identify the noun (नाम) in the sentence: 'सगरमाथा संसारको सबैभन्दा अग्लो हिमाल हो।'",
+      "options": [
+        "अग्लो (aglo)",
+        "हो (ho)",
+        "सगरमाथा (Sagarmatha)",
+        "सबैभन्दा (sabaibhanda)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'सगरमाथा' (Sagarmatha) is a proper noun, which is the name of a specific mountain. 'अग्लो' (aglo - tall) is an adjective, and 'हो' (ho - is) is a verb."
+    }
+  ]
+}

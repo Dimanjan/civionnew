@@ -1,0 +1,266 @@
+{
+  "id": "set_14",
+  "title": "General Knowledge & Aptitude Test (Nepal) - Set 3",
+  "questions": [
+    {
+      "id": 1,
+      "category": "General Knowledge",
+      "question": "Where is the headquarters of the South Asian Association for Regional Cooperation (SAARC) located?",
+      "options": [
+        "New Delhi, India",
+        "Dhaka, Bangladesh",
+        "Thimphu, Bhutan",
+        "Kathmandu, Nepal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The permanent secretariat and headquarters of SAARC, a regional intergovernmental organization of South Asian states, is located in Kathmandu, Nepal."
+    },
+    {
+      "id": 2,
+      "category": "General Knowledge",
+      "question": "Which river originating in Nepal is notoriously known as the 'Sorrow of Bihar' in India due to its frequent and devastating floods?",
+      "options": [
+        "Gandaki",
+        "Karnali",
+        "Koshi",
+        "Bagmati"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Koshi River is a trans-boundary river that flows through Nepal and India. Its unstable nature and history of causing widespread floods have earned it the name 'Sorrow of Bihar'."
+    },
+    {
+      "id": 3,
+      "category": "General Knowledge",
+      "question": "What is the official national sport of Nepal?",
+      "options": [
+        "Football",
+        "Cricket",
+        "Dandi Biyo",
+        "Volleyball"
+      ],
+      "correctAnswer": 3,
+      "explanation": "On May 23, 2017, the Government of Nepal officially declared Volleyball as the national sport of the country, replacing Dandi Biyo which was considered the unofficial national sport."
+    },
+    {
+      "id": 4,
+      "category": "General Knowledge",
+      "question": "Who was the last reigning monarch of the Kingdom of Nepal?",
+      "options": [
+        "Mahendra Bir Bikram Shah",
+        "Birendra Bir Bikram Shah",
+        "Tribhuvan Bir Bikram Shah",
+        "Gyanendra Bir Bikram Shah"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Gyanendra Bir Bikram Shah was the last king of Nepal, reigning until the monarchy was abolished in 2008 and the country was declared a federal democratic republic."
+    },
+    {
+      "id": 5,
+      "category": "General Knowledge",
+      "question": "The chemical name for Vitamin C, which is essential for repairing tissues, is:",
+      "options": [
+        "Retinol",
+        "Ascorbic Acid",
+        "Calciferol",
+        "Tocopherol"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ascorbic Acid is the chemical name for Vitamin C. Retinol is Vitamin A, Calciferol is Vitamin D, and Tocopherol is Vitamin E."
+    },
+    {
+      "id": 6,
+      "category": "Logical Reasoning",
+      "question": "Find the missing number in the series: 1, 8, 27, 64, ?",
+      "options": [
+        "100",
+        "125",
+        "150",
+        "216"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The series consists of the cubes of consecutive natural numbers: 1³ = 1, 2³ = 8, 3³ = 27, 4³ = 64. The next number is 5³, which is 125."
+    },
+    {
+      "id": 7,
+      "category": "Logical Reasoning",
+      "question": "Five friends P, Q, R, S, and T are sitting in a row facing North. S is between T and Q. Q is to the immediate left of R. P is to the immediate left of T. Who is in the middle?",
+      "options": [
+        "S",
+        "T",
+        "Q",
+        "R"
+      ],
+      "correctAnswer": 0,
+      "explanation": "From the clues, the arrangement from left to right is: P, T, S, Q, R. The person sitting exactly in the middle of the five friends is S."
+    },
+    {
+      "id": 8,
+      "category": "Logical Reasoning",
+      "question": "Which of the following is different from the rest?",
+      "options": [
+        "Annapurna",
+        "Everest",
+        "Kanchenjunga",
+        "Mount Fuji"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Annapurna, Everest, and Kanchenjunga are major Himalayan peaks located in Nepal. Mount Fuji is a volcano located in Japan."
+    },
+    {
+      "id": 9,
+      "category": "Logical Reasoning",
+      "question": "A man is facing west. He turns 45° clockwise, then another 180° clockwise. Which direction is he facing now?",
+      "options": [
+        "South",
+        "North-West",
+        "South-East",
+        "North-East"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Starting at West, a 45° clockwise turn points him to North-West. A further 180° turn from North-West (a straight line) points him to South-East."
+    },
+    {
+      "id": 10,
+      "category": "Logical Reasoning",
+      "question": "Book is to Read as Pen is to ____.",
+      "options": [
+        "Write",
+        "Paper",
+        "Ink",
+        "Point"
+      ],
+      "correctAnswer": 0,
+      "explanation": "This is a functional analogy. The primary function of a book is to be read, and the primary function of a pen is to write."
+    },
+    {
+      "id": 11,
+      "category": "Quantitative Aptitude",
+      "question": "If 20% of a number is 120, what is 120% of that number?",
+      "options": [
+        "600",
+        "720",
+        "360",
+        "840"
+      ],
+      "correctAnswer": 1,
+      "explanation": "If 20% of the number is 120, then the number is 120 / 0.20 = 600. Then, 120% of 600 is 1.20 × 600 = 720."
+    },
+    {
+      "id": 12,
+      "category": "Quantitative Aptitude",
+      "question": "The salaries of A, B, and C are in the ratio 2:3:5. If they get increments of 15%, 10%, and 20% respectively, what will be the new ratio of their salaries?",
+      "options": [
+        "23:33:60",
+        "22:33:60",
+        "23:32:55",
+        "22:32:55"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Let initial salaries be 2k, 3k, 5k. New salaries: 2k(1.15) = 2.3k; 3k(1.10) = 3.3k; 5k(1.20) = 6k. The new ratio is 2.3k : 3.3k : 6k. Multiplying by 10 to remove decimals gives 23:33:60."
+    },
+    {
+      "id": 13,
+      "category": "Quantitative Aptitude",
+      "question": "A sum of money triples itself in 10 years at simple interest. What is the annual rate of interest?",
+      "options": [
+        "10%",
+        "15%",
+        "20%",
+        "25%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "If the sum triples, the interest earned is twice the principal (Interest = 2P). Using the formula R = (SI × 100) / (P × T), we get R = (2P × 100) / (P × 10) = 200 / 10 = 20%."
+    },
+    {
+      "id": 14,
+      "category": "Quantitative Aptitude",
+      "question": "The three angles of a triangle are in the ratio 2:3:4. What is the measure of the smallest angle?",
+      "options": [
+        "20°",
+        "40°",
+        "60°",
+        "80°"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Let the angles be 2x, 3x, and 4x. The sum of angles in a triangle is 180°. So, 2x + 3x + 4x = 9x = 180°. This gives x = 20°. The smallest angle is 2x = 2 × 20 = 40°."
+    },
+    {
+      "id": 15,
+      "category": "Quantitative Aptitude",
+      "question": "What is the value of 50% of 40% of Rs. 1200?",
+      "options": [
+        "Rs. 240",
+        "Rs. 300",
+        "Rs. 200",
+        "Rs. 280"
+      ],
+      "correctAnswer": 0,
+      "explanation": "First, calculate 40% of Rs. 1200, which is 0.40 × 1200 = Rs. 480. Then, calculate 50% (or half) of Rs. 480, which is 0.50 × 480 = Rs. 240."
+    },
+    {
+      "id": 16,
+      "category": "English Comprehension",
+      "question": "Choose the word that is an antonym for 'INTRICATE'.",
+      "options": [
+        "Complex",
+        "Complicated",
+        "Simple",
+        "Detailed"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Intricate' means very complicated or detailed. Its direct opposite is 'Simple'."
+    },
+    {
+      "id": 17,
+      "category": "English Comprehension",
+      "question": "Identify the part of speech of the underlined word: 'She runs very fast.'",
+      "options": [
+        "Adjective",
+        "Adverb",
+        "Verb",
+        "Noun"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The word 'fast' describes how she runs, modifying the verb 'runs'. Therefore, it is an adverb."
+    },
+    {
+      "id": 18,
+      "category": "English Comprehension",
+      "question": "Complete the sentence with the correct tag question: 'He hardly ever makes a mistake, ___?'",
+      "options": [
+        "did he",
+        "doesn't he",
+        "does he",
+        "isn't it"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Words like 'hardly' make the main clause negative in sense. A negative main clause requires a positive tag question. Thus, 'does he' is correct."
+    },
+    {
+      "id": 19,
+      "category": "Nepali Language",
+      "question": "What does the Nepali word 'हिमाल' (Himal) specifically refer to?",
+      "options": [
+        "River",
+        "Snow-capped Mountain",
+        "Forest",
+        "Hill"
+      ],
+      "correctAnswer": 1,
+      "explanation": "While 'पहाड' (Pahad) means hill or mountain, 'हिमाल' (Himal) specifically refers to a large, snow-capped mountain, like those in the Himalayan range."
+    },
+    {
+      "id": 20,
+      "category": "Nepali Language",
+      "question": "Which of the following is a plural word (बहुवचन) in Nepali?",
+      "options": [
+        "केटो (Keto)",
+        "किताब (Kitab)",
+        "मानिसहरू (Manis-haru)",
+        "घर (Ghar)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The suffix '-हरू' (-haru) is added to nouns to make them plural. Therefore, 'मानिसहरू' (Manis-haru) is the plural for 'person' or 'people'."
+    }
+  ]
+}

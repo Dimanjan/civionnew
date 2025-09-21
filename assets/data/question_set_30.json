@@ -1,0 +1,266 @@
+{
+  "id": "set_30",
+  "title": "General Knowledge & Aptitude Test (Nepal) - Set 19",
+  "questions": [
+    {
+      "id": 1,
+      "category": "General Knowledge",
+      "question": "The 'Muluki Ain', the first codified law of Nepal, was introduced during the tenure of which Rana Prime Minister?",
+      "options": [
+        "Jung Bahadur Rana",
+        "Ranodip Singh",
+        "Bir Shumsher",
+        "Chandra Shumsher"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Jung Bahadur Rana, after his visit to Europe, introduced the Muluki Ain in 1854 AD (1910 BS), which served as the legal code for both civil and criminal matters for over a century."
+    },
+    {
+      "id": 2,
+      "category": "General Knowledge",
+      "question": "Shey Phoksundo National Park, Nepal's largest national park, is primarily located in which two districts?",
+      "options": [
+        "Mugu and Humla",
+        "Dolpa and Mugu",
+        "Jajarkot and Dolpa",
+        "Rukum and Jajarkot"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Shey Phoksundo National Park, famous for the deep-blue Phoksundo Lake, lies in the trans-Himalayan region and spans across the districts of Dolpa and Mugu."
+    },
+    {
+      "id": 3,
+      "category": "General Knowledge",
+      "question": "What is a 'Pagoda' in the context of traditional Nepali architecture?",
+      "options": [
+        "A type of food",
+        "A multi-tiered tower with multiple overhanging eaves",
+        "A traditional song",
+        "A form of mural painting"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Pagoda style is a prominent feature of Nepali temple architecture, characterized by its multiple tiers of roofs, each smaller than the one below it, supported by intricately carved wooden struts."
+    },
+    {
+      "id": 4,
+      "category": "General Knowledge",
+      "question": "What is the official language of Nepal as mandated by the constitution?",
+      "options": [
+        "Maithili",
+        "Bhojpuri",
+        "Newari (Nepal Bhasa)",
+        "Nepali"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Article 7(1) of the Constitution of Nepal states that the Nepali language, written in the Devanagari script, shall be the official language of Nepal."
+    },
+    {
+      "id": 5,
+      "category": "General Knowledge",
+      "question": "The headquarters of the International Atomic Energy Agency (IAEA) is located in which city?",
+      "options": [
+        "Vienna, Austria",
+        "Geneva, Switzerland",
+        "Brussels, Belgium",
+        "New York, USA"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The IAEA, the world's center for cooperation in the nuclear field and which seeks to promote the peaceful use of nuclear energy, is headquartered in Vienna, Austria."
+    },
+    {
+      "id": 6,
+      "category": "Logical Reasoning",
+      "question": "Find the next number in the series: 3, 6, 11, 18, 27, ?",
+      "options": [
+        "36",
+        "38",
+        "40",
+        "42"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The difference between consecutive numbers is increasing by 2: (6-3=3), (11-6=5), (18-11=7), (27-18=9). The next difference will be 11. So, 27 + 11 = 38."
+    },
+    {
+      "id": 7,
+      "category": "Logical Reasoning",
+      "question": "In a certain code, 'MOTHER' is written as 'OMHTRE'. How is 'FATHER' written?",
+      "options": [
+        "AFHTRE",
+        "AFHETR",
+        "AFHTER",
+        "AHTFER"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The letters of the word are swapped in pairs. MO -> OM, TH -> HT, ER -> RE. Applying this to 'FATHER': FA -> AF, TH -> HT, ER -> RE."
+    },
+    {
+      "id": 8,
+      "category": "Logical Reasoning",
+      "question": "Horse is to Stable as Pig is to ____?",
+      "options": [
+        "Den",
+        "Sty",
+        "Shed",
+        "Burrow"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This is an analogy of an animal and its dwelling. A horse is kept in a stable, and a pig is kept in a sty."
+    },
+    {
+      "id": 9,
+      "category": "Logical Reasoning",
+      "question": "A is B's brother. C is A's mother. D is C's father. E is D's mother. How is B related to D?",
+      "options": [
+        "Grandson",
+        "Grandfather",
+        "Son",
+        "Great-grandson"
+      ],
+      "correctAnswer": 0,
+      "explanation": "B's brother is A, and A's mother is C. This means C is also B's mother. D is C's father. Therefore, D is the maternal grandfather of B, making B his grandson."
+    },
+    {
+      "id": 10,
+      "category": "Logical Reasoning",
+      "question": "Which of the following is the odd one out?",
+      "options": [
+        "Rupee",
+        "Pound",
+        "Franc",
+        "Currency"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Currency is the general category. Rupee, Pound, and Franc are all specific types of currency."
+    },
+    {
+      "id": 11,
+      "category": "Quantitative Aptitude",
+      "question": "In an examination, 35% of the students passed and 455 failed. How many students appeared for the examination?",
+      "options": [
+        "500",
+        "700",
+        "845",
+        "1300"
+      ],
+      "correctAnswer": 1,
+      "explanation": "If 35% of students passed, then 100% - 35% = 65% of students failed. We are given that 65% of the total students is 455. Therefore, the total number of students is (455 / 65) × 100 = 700."
+    },
+    {
+      "id": 12,
+      "category": "Quantitative Aptitude",
+      "question": "A man sells an article at a loss of 10%. If he had sold it for Rs. 10 more, he would have gained 10%. The cost price is:",
+      "options": [
+        "Rs. 40",
+        "Rs. 50",
+        "Rs. 60",
+        "Rs. 70"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The difference between a 10% loss and a 10% gain is 20% of the Cost Price (CP). This 20% difference is equal to Rs. 10. So, 20% of CP = Rs. 10. The full CP is (10 / 20) × 100 = Rs. 50."
+    },
+    {
+      "id": 13,
+      "category": "Quantitative Aptitude",
+      "question": "A sum of money at simple interest amounts to Rs. 720 after 2 years and Rs. 1020 after a further 5 years. The sum is:",
+      "options": [
+        "Rs. 500",
+        "Rs. 600",
+        "Rs. 700",
+        "Rs. 710"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The interest for the 'further period of 5 years' is 1020 - 720 = Rs. 300. The interest per year is 300 / 5 = Rs. 60. The interest for the first 2 years is 2 × 60 = Rs. 120. The original sum (principal) is the amount after 2 years minus the interest: 720 - 120 = Rs. 600."
+    },
+    {
+      "id": 14,
+      "category": "Quantitative Aptitude",
+      "question": "An athlete runs a 200-metre race in 24 seconds. His speed in km/hr is:",
+      "options": [
+        "20",
+        "24",
+        "28.5",
+        "30"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The speed in m/s is 200 / 24. To convert m/s to km/hr, we multiply by 18/5. So, Speed = (200 / 24) × (18 / 5) = 30 km/hr."
+    },
+    {
+      "id": 15,
+      "category": "Quantitative Aptitude",
+      "question": "The average of 13 numbers is 68. The average of the first 7 is 63, and the last 7 is 70. What is the seventh number?",
+      "options": [
+        "47",
+        "49",
+        "51",
+        "53"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The sum of all 13 numbers is 13 × 68 = 884. The sum of the first 7 is 7 × 63 = 441. The sum of the last 7 is 7 × 70 = 490. The seventh number, which is counted in both groups, is (441 + 490) - 884 = 931 - 884 = 47."
+    },
+    {
+      "id": 16,
+      "category": "English Comprehension",
+      "question": "Fill in the blank: 'Every boy and every girl ___ given a prize.'",
+      "options": [
+        "was",
+        "were",
+        "have",
+        "has"
+      ],
+      "correctAnswer": 0,
+      "explanation": "When 'every' or 'each' is used, the subject is treated as singular, even if two nouns are joined by 'and'. Therefore, the singular verb 'was' is correct."
+    },
+    {
+      "id": 17,
+      "category": "English Comprehension",
+      "question": "The word 'potable' means:",
+      "options": [
+        "able to be carried easily.",
+        "safe to drink.",
+        "good to eat.",
+        "easy to break or damage."
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Potable' specifically refers to water that is safe for human consumption, i.e., drinking water."
+    },
+    {
+      "id": 18,
+      "category": "English Comprehension",
+      "question": "Choose the word most similar in meaning to 'ABRUPT'.",
+      "options": [
+        "Gradual",
+        "Slow",
+        "Smooth",
+        "Sudden"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Abrupt' means sudden and unexpected. 'Sudden' is the closest synonym."
+    },
+    {
+      "id": 19,
+      "category": "Nepali Language",
+      "question": "What is the correct Nepali word for 'embassy'?",
+      "options": [
+        "मन्त्रालय (Mantralaya)",
+        "विभाग (Bibhag)",
+        "दूतावास (Dutabas)",
+        "आयोग (Aayog)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The term for a country's embassy is 'दूतावास' (Dutabas). 'Mantralaya' is a ministry, 'Bibhag' is a department, and 'Aayog' is a commission."
+    },
+    {
+      "id": 20,
+      "category": "Nepali Language",
+      "question": "Which of the following is a demonstrative pronoun (दर्शक सर्वनाम)?",
+      "options": [
+        "को (ko)",
+        "म (ma)",
+        "त्यो (tyo)",
+        "के (ke)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'त्यो' (tyo), meaning 'that', is a demonstrative pronoun used to point out a specific person or thing. 'Ko' (who) and 'Ke' (what) are interrogative pronouns, and 'Ma' (I) is a personal pronoun."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "set_10",
+  "title": "Question Set 10",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Transportation",
+      "question": "Which is the only international airport in Nepal?",
+      "options": [
+        "Tribhuvan International Airport",
+        "Pokhara Airport",
+        "Biratnagar Airport",
+        "Bhairahawa Airport"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tribhuvan International Airport in Kathmandu is the only international airport in Nepal."
+    },
+    {
+      "id": 2,
+      "category": "Climate",
+      "question": "What type of climate does Nepal have?",
+      "options": [
+        "Tropical climate only",
+        "Temperate climate only",
+        "Alpine climate only",
+        "Varied climate (tropical to alpine)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Nepal has varied climate ranging from tropical in the Terai to alpine in the Himalayas due to its diverse topography."
+    }
+  ]
+} 

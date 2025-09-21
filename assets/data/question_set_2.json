@@ -1,0 +1,32 @@
+{
+  "id": "set_2",
+  "title": "Question Set 2",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Nepali History",
+      "question": "In which year did King Prithvi Narayan Shah unify Nepal?",
+      "options": [
+        "1768 AD",
+        "1769 AD",
+        "1770 AD",
+        "1771 AD"
+      ],
+      "correctAnswer": 1,
+      "explanation": "King Prithvi Narayan Shah unified Nepal in 1769 AD, marking the beginning of the Shah dynasty rule."
+    },
+    {
+      "id": 2,
+      "category": "Geography",
+      "question": "Which river is known as the 'Sorrow of Bihar'?",
+      "options": [
+        "Koshi River",
+        "Gandaki River",
+        "Karnali River",
+        "Mahakali River"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Koshi River is known as the 'Sorrow of Bihar' due to its frequent flooding and changing course."
+    }
+  ]
+} 

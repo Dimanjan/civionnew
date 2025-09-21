@@ -1,0 +1,32 @@
+{
+  "id": "set_7",
+  "title": "Question Set 7",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Education",
+      "question": "When was Tribhuvan University established?",
+      "options": [
+        "1959 AD",
+        "1960 AD",
+        "1961 AD",
+        "1962 AD"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tribhuvan University was established in 1959 AD and is the oldest and largest university in Nepal."
+    },
+    {
+      "id": 2,
+      "category": "Agriculture",
+      "question": "Which crop is known as the 'Golden Grain of Nepal'?",
+      "options": [
+        "Rice",
+        "Wheat",
+        "Maize",
+        "Millet"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Rice is known as the 'Golden Grain of Nepal' and is the staple food crop of the country."
+    }
+  ]
+} 

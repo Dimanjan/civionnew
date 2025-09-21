@@ -1,0 +1,32 @@
+{
+  "id": "set_4",
+  "title": "Question Set 4",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Politics",
+      "question": "How many provinces are there in Nepal according to the new federal structure?",
+      "options": [
+        "5 provinces",
+        "6 provinces",
+        "7 provinces",
+        "8 provinces"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nepal has 7 provinces as per the new federal structure established by the Constitution of Nepal 2072."
+    },
+    {
+      "id": 2,
+      "category": "Science",
+      "question": "Which is the national flower of Nepal?",
+      "options": [
+        "Rose",
+        "Rhododendron",
+        "Marigold",
+        "Lotus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rhododendron (Laligurans) is the national flower of Nepal, symbolizing the country's natural beauty."
+    }
+  ]
+} 

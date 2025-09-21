@@ -1,0 +1,266 @@
+{
+  "id": "set_17",
+  "title": "General Knowledge & Aptitude Test (Nepal) - Set 6",
+  "questions": [
+    {
+      "id": 1,
+      "category": "General Knowledge",
+      "question": "Who is credited with the construction of the 'Nyatapola' Temple in Bhaktapur, one of the tallest temples in Nepal?",
+      "options": [
+        "Pratap Malla",
+        "Bhupatindra Malla",
+        "Siddhi Narsingh Malla",
+        "Jaya Prakash Malla"
+      ],
+      "correctAnswer": 1,
+      "explanation": "King Bhupatindra Malla of the Malla dynasty of Bhaktapur commissioned the construction of this five-story pagoda-style temple in the early 18th century (1702 AD)."
+    },
+    {
+      "id": 2,
+      "category": "General Knowledge",
+      "question": "Nepal is divided into how many provinces (Pradesh) according to the 2015 Constitution?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "14"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Constitution of Nepal, promulgated in 2015, established a federal structure with seven provinces. The number 14 refers to the older zonal administrative division."
+    },
+    {
+      "id": 3,
+      "category": "General Knowledge",
+      "question": "The 'Api Himal' Conservation Area is located in which province of Nepal?",
+      "options": [
+        "Karnali Province",
+        "Gandaki Province",
+        "Lumbini Province",
+        "Sudurpashchim Province"
+      ],
+      "correctAnswer": 3,
+      "explanation": "This conservation area, named after Mount Api, is located in the far-western Sudurpashchim Province, primarily in the Darchula district."
+    },
+    {
+      "id": 4,
+      "category": "General Knowledge",
+      "question": "Who was the first person from Nepal to receive the Ramon Magsaysay Award, often considered Asia's Nobel Prize?",
+      "options": [
+        "Anuradha Koirala",
+        "Mahesh Chandra Regmi",
+        "Sandeep Ruit",
+        "Bharat Dutta Koirala"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mahesh Chandra Regmi, a renowned historian and scholar, was the first Nepali to be honored with the Ramon Magsaysay Award in 1977 for his contributions to journalism, literature, and creative communication arts."
+    },
+    {
+      "id": 5,
+      "category": "General Knowledge",
+      "question": "What is the scientific study of earthquakes and seismic waves called?",
+      "options": [
+        "Geology",
+        "Meteorology",
+        "Seismology",
+        "Volcanology"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Derived from the Greek word 'seismos' meaning earthquake, seismology is the scientific study of earthquakes and the propagation of elastic waves (seismic waves) through the Earth."
+    },
+    {
+      "id": 6,
+      "category": "Logical Reasoning",
+      "question": "Find the missing term in the series: JAZ, KBY, LCX, MDW, ?",
+      "options": [
+        "NEV",
+        "NVE",
+        "MEV",
+        "OEU"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The pattern follows three separate sequences. 1st letter: J, K, L, M, -> N. 2nd letter: A, B, C, D, -> E. 3rd letter: Z, Y, X, W, -> V. Combining them gives NEV."
+    },
+    {
+      "id": 7,
+      "category": "Logical Reasoning",
+      "question": "If 'WORK' is coded as 'XPSL', how is 'PLAY' coded?",
+      "options": [
+        "QMBZ",
+        "QMCZ",
+        "QLBZ",
+        "PMBZ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Each letter in the word is shifted one position forward in the alphabet. W+1=X, O+1=P, R+1=S, K+1=L. Therefore, P+1=Q, L+1=M, A+1=B, Y+1=Z."
+    },
+    {
+      "id": 8,
+      "category": "Logical Reasoning",
+      "question": "Which of the following districts is the odd one out based on its primary geography?",
+      "options": [
+        "Mustang",
+        "Manang",
+        "Dolpa",
+        "Jhapa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Jhapa is a district located entirely in the Terai (plains) region of Nepal. Mustang, Manang, and Dolpa are all districts located in the high-altitude Himalayan (mountainous) region."
+    },
+    {
+      "id": 9,
+      "category": "Logical Reasoning",
+      "question": "Ravi's mother is the only daughter of Monika's father. How is Monika's husband related to Ravi?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Father",
+        "Grandfather"
+      ],
+      "correctAnswer": 2,
+      "explanation": "If Monika's father has only one daughter, then that daughter must be Monika herself. Therefore, Monika is Ravi's mother. Monika's husband would be Ravi's father."
+    },
+    {
+      "id": 10,
+      "category": "Logical Reasoning",
+      "question": "Needle is to Sew as Chisel is to ____?",
+      "options": [
+        "Hammer",
+        "Wood",
+        "Carve",
+        "Sculpture"
+      ],
+      "correctAnswer": 2,
+      "explanation": "This is a functional analogy. The function of a needle is to sew, and the primary function of a chisel is to carve materials like wood or stone."
+    },
+    {
+      "id": 11,
+      "category": "Quantitative Aptitude",
+      "question": "A fruit seller had some apples. He sells 40% of them and still has 420 apples left. How many apples did he have originally?",
+      "options": [
+        "588",
+        "600",
+        "700",
+        "1050"
+      ],
+      "correctAnswer": 2,
+      "explanation": "If he sold 40%, he has 100% - 40% = 60% remaining. If 60% of the total apples is 420, then the original number of apples was (420 / 60) × 100 = 700."
+    },
+    {
+      "id": 12,
+      "category": "Quantitative Aptitude",
+      "question": "The ages of Ram and Shyam are in the ratio of 2:3. After 5 years, the ratio of their ages will be 3:4. What is the current age of Shyam?",
+      "options": [
+        "10 years",
+        "15 years",
+        "20 years",
+        "5 years"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Let their current ages be 2x and 3x. The equation is (2x+5)/(3x+5) = 3/4. Cross-multiplying gives 4(2x+5) = 3(3x+5), which simplifies to 8x+20 = 9x+15. Solving for x gives x=5. Shyam's current age is 3x = 3 × 5 = 15 years."
+    },
+    {
+      "id": 13,
+      "category": "Quantitative Aptitude",
+      "question": "A train 150 meters long is running at 90 km/hr. How long will it take to cross an electric pole?",
+      "options": [
+        "5 seconds",
+        "6 seconds",
+        "8 seconds",
+        "10 seconds"
+      ],
+      "correctAnswer": 1,
+      "explanation": "First, convert speed to m/s: 90 km/hr × (5/18) = 25 m/s. To cross a pole, the train must cover its own length. Time = Distance / Speed = 150 m / 25 m/s = 6 seconds."
+    },
+    {
+      "id": 14,
+      "category": "Quantitative Aptitude",
+      "question": "What is the next number in the sequence: 4, 10, 22, 46, ...?",
+      "options": [
+        "94",
+        "92",
+        "90",
+        "96"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The pattern is to multiply the previous number by 2 and then add 2. (4×2)+2=10, (10×2)+2=22, (22×2)+2=46. The next number is (46×2)+2 = 92+2 = 94."
+    },
+    {
+      "id": 15,
+      "category": "Quantitative Aptitude",
+      "question": "A pipe can fill a tank in 15 hours. Due to a leak, it is filled in 20 hours. If the tank is full, how long will the leak take to empty it?",
+      "options": [
+        "40 hours",
+        "50 hours",
+        "60 hours",
+        "30 hours"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The work rate of the leak in 1 hour is the difference between the fill rates: (1/15) - (1/20) = (4-3)/60 = 1/60. This means the leak empties 1/60th of the tank per hour. Therefore, the leak can empty the full tank in 60 hours."
+    },
+    {
+      "id": 16,
+      "category": "English Comprehension",
+      "question": "What is the meaning of the idiom 'to spill the beans'?",
+      "options": [
+        "To be very tidy",
+        "To work hard",
+        "To waste money",
+        "To reveal a secret"
+      ],
+      "correctAnswer": 3,
+      "explanation": "This idiom means to disclose secret or private information, often accidentally or indiscreetly."
+    },
+    {
+      "id": 17,
+      "category": "English Comprehension",
+      "question": "Choose the word that is an antonym for 'TRANSPARENT'.",
+      "options": [
+        "Clear",
+        "Opaque",
+        "Bright",
+        "Lucid"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Transparent' means allowing light to pass through so that objects behind can be distinctly seen. 'Opaque' means not able to be seen through, which is the direct opposite."
+    },
+    {
+      "id": 18,
+      "category": "English Comprehension",
+      "question": "One of the girls in our class ___ the owner of a new car.",
+      "options": [
+        "are",
+        "is",
+        "have",
+        "were"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The subject of the sentence is 'One', which is singular. Therefore, it requires the singular verb 'is'."
+    },
+    {
+      "id": 19,
+      "category": "Nepali Language",
+      "question": "What is the appropriate Nepali word for 'heritage'?",
+      "options": [
+        "संस्कृति (Sanskriti)",
+        "सम्पदा (Sampada)",
+        "परम्परा (Parampara)",
+        "इतिहास (Itihas)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'सम्पदा' (Sampada) is the correct term for heritage. 'Sanskriti' is culture, 'Parampara' is tradition, and 'Itihas' is history."
+    },
+    {
+      "id": 20,
+      "category": "Nepali Language",
+      "question": "Which of the following sentences is grammatically correct in Nepali?",
+      "options": [
+        "म भात खान्छु। (Ma bhat khanchhu)",
+        "म भात खान्छ। (Ma bhat khancha)",
+        "हामी भात खान्छु। (Hami bhat khanchhu)",
+        "तिमी भात खान्छ। (Timi bhat khancha)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The verb must agree with the subject. For the first-person singular pronoun 'म' (Ma - I), the correct verb form is 'खान्छु' (khanchhu)."
+    }
+  ]
+}

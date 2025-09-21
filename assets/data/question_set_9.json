@@ -1,0 +1,32 @@
+{
+  "id": "set_9",
+  "title": "Question Set 9",
+  "questions": [
+    {
+      "id": 1,
+      "category": "International Relations",
+      "question": "Which country shares the longest border with Nepal?",
+      "options": [
+        "India",
+        "China",
+        "Bhutan",
+        "Bangladesh"
+      ],
+      "correctAnswer": 0,
+      "explanation": "India shares the longest border with Nepal, approximately 1,751 kilometers long."
+    },
+    {
+      "id": 2,
+      "category": "Art & Architecture",
+      "question": "Which temple is known as the 'Living Goddess Temple' in Kathmandu?",
+      "options": [
+        "Pashupatinath Temple",
+        "Swayambhunath Stupa",
+        "Kumari Ghar",
+        "Boudhanath Stupa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Kumari Ghar is known as the 'Living Goddess Temple' where the Kumari (living goddess) resides."
+    }
+  ]
+} 

@@ -1,0 +1,266 @@
+{
+  "id": "set_24",
+  "title": "General Knowledge & Aptitude Test (Nepal) - Set 13",
+  "questions": [
+    {
+      "id": 1,
+      "category": "General Knowledge",
+      "question": "The first general election in Nepal was held in which year of the Bikram Sambat (BS) calendar?",
+      "options": [
+        "2007 BS",
+        "2015 BS",
+        "2017 BS",
+        "2046 BS"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nepal held its first-ever general election in 2015 BS (1959 AD) to elect members for the House of Representatives, which resulted in a victory for the Nepali Congress party."
+    },
+    {
+      "id": 2,
+      "category": "General Knowledge",
+      "question": "'Koshi Tappu Wildlife Reserve' is most famous for being the last remaining habitat of which endangered animal?",
+      "options": [
+        "One-horned Rhinoceros",
+        "Royal Bengal Tiger",
+        "Wild Water Buffalo (Arna)",
+        "Snow Leopard"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Koshi Tappu Wildlife Reserve is renowned for its population of the endangered Wild Water Buffalo, locally known as 'Arna'. It's the last remaining habitat for this species in Nepal."
+    },
+    {
+      "id": 3,
+      "category": "General Knowledge",
+      "question": "What is considered the most prestigious literary award in Nepal?",
+      "options": [
+        "Sajha Puraskar",
+        "Madan Puraskar",
+        "Jagadamba Shree Puraskar",
+        "Ganki Basundhara Puraskar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Madan Puraskar, established in 1955 AD, is Nepal's highest literary honor, awarded annually for an outstanding book in the Nepali language."
+    },
+    {
+      "id": 4,
+      "category": "General Knowledge",
+      "question": "Which province of Nepal contains the highest number of districts?",
+      "options": [
+        "Koshi Province",
+        "Madhesh Province",
+        "Bagmati Province",
+        "Lumbini Province"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Koshi Province, located in the eastern part of the country, is comprised of 14 districts, which is the highest number among all seven provinces."
+    },
+    {
+      "id": 5,
+      "category": "General Knowledge",
+      "question": "The headquarters of the International Court of Justice (ICJ) is located in:",
+      "options": [
+        "New York, USA",
+        "Geneva, Switzerland",
+        "The Hague, Netherlands",
+        "Vienna, Austria"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The International Court of Justice, the principal judicial organ of the United Nations, is based at the Peace Palace in The Hague, Netherlands."
+    },
+    {
+      "id": 6,
+      "category": "Logical Reasoning",
+      "question": "Find the next term in the series: 1, 2, 6, 24, 120, ?",
+      "options": [
+        "5040",
+        "720",
+        "1440",
+        "840"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The pattern is multiplying by consecutive integers: 1×2=2, 2×3=6, 6×4=24, 24×5=120. The next step is 120×6=720. This is also the factorial sequence (1!, 2!, 3!, 4!, 5!, 6!)."
+    },
+    {
+      "id": 7,
+      "category": "Logical Reasoning",
+      "question": "If 'TEACHER' is coded as 'VGCEJGT', how is 'STUDENT' coded?",
+      "options": [
+        "UVWFGPU",
+        "UVWFGPV",
+        "UVWFGTV",
+        "UVWFFPV"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Each letter in the word is shifted forward by two positions in the alphabet. T+2=V, E+2=G, A+2=C, etc. Following this for 'STUDENT': S+2=U, T+2=V, U+2=W, D+2=F, E+2=G, N+2=P, T+2=V."
+    },
+    {
+      "id": 8,
+      "category": "Logical Reasoning",
+      "question": "Tree is to Sap as Human is to ____?",
+      "options": [
+        "Food",
+        "Water",
+        "Blood",
+        "Energy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "This is an analogy of essential circulating fluids. Sap is the vital fluid that transports nutrients in a tree, just as blood is the vital fluid that circulates nutrients and oxygen in a human."
+    },
+    {
+      "id": 9,
+      "category": "Logical Reasoning",
+      "question": "In a row of boys, if A who is 10th from the left and B who is 9th from the right interchange their positions, A becomes 15th from the left. How many boys are there in the row?",
+      "options": [
+        "23",
+        "27",
+        "30",
+        "31"
+      ],
+      "correctAnswer": 0,
+      "explanation": "After interchanging, A's new position is 15th from the left. This position was originally B's. We know B's original position was also 9th from the right. So, the total number of boys is (A's new position from left) + (B's original position from right) - 1 = 15 + 9 - 1 = 23."
+    },
+    {
+      "id": 10,
+      "category": "Logical Reasoning",
+      "question": "Which of the following is the odd one out?",
+      "options": [
+        "Copper",
+        "Zinc",
+        "Brass",
+        "Aluminum"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Brass is an alloy, which is a mixture of metals (specifically copper and zinc). Copper, Zinc, and Aluminum are all pure metallic elements."
+    },
+    {
+      "id": 11,
+      "category": "Quantitative Aptitude",
+      "question": "A batsman scored 110 runs, which included 3 boundaries (fours) and 8 sixes. What percent of his score did he make by running between the wickets?",
+      "options": [
+        "45%",
+        "45.45%",
+        "54.55%",
+        "55%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Runs from boundaries = 3 × 4 = 12. Runs from sixes = 8 × 6 = 48. Total runs from boundaries and sixes = 12 + 48 = 60. Runs made by running = 110 - 60 = 50. Percentage = (50 / 110) × 100 ≈ 45.45%."
+    },
+    {
+      "id": 12,
+      "category": "Quantitative Aptitude",
+      "question": "A sells a bicycle to B at a 20% profit. B sells it to C at a 25% profit. If C pays Rs. 225, what did it cost A?",
+      "options": [
+        "Rs. 110",
+        "Rs. 120",
+        "Rs. 125",
+        "Rs. 150"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Let A's cost price be x. B paid 1.20x. C paid 1.25 × (1.20x) = 1.5x. We are given that 1.5x = 225. So, x = 225 / 1.5 = Rs. 150."
+    },
+    {
+      "id": 13,
+      "category": "Quantitative Aptitude",
+      "question": "A sum of money amounts to Rs. 9800 after 5 years and Rs. 12005 after 8 years at the same rate of simple interest. The rate of interest per annum is:",
+      "options": [
+        "5%",
+        "8%",
+        "12%",
+        "15%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The interest for 3 years (8 - 5) is 12005 - 9800 = Rs. 2205. The interest for 1 year is 2205 / 3 = Rs. 735. The principal is the amount after 5 years minus 5 years of interest: 9800 - (5 × 735) = 9800 - 3675 = Rs. 6125. Rate = (SI × 100) / (P × T) = (735 × 100) / (6125 × 1) = 12%."
+    },
+    {
+      "id": 14,
+      "category": "Quantitative Aptitude",
+      "question": "A train running at 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+      "options": [
+        "120 metres",
+        "180 metres",
+        "324 metres",
+        "150 metres"
+      ],
+      "correctAnswer": 3,
+      "explanation": "First, convert speed to m/s: 60 km/hr × (5/18) = 50/3 m/s. The length of the train is the distance it covers to cross the pole. Distance = Speed × Time = (50/3) m/s × 9 s = 150 metres."
+    },
+    {
+      "id": 15,
+      "category": "Quantitative Aptitude",
+      "question": "The average weight of A, B and C is 45 kg. If the average weight of A and B is 40 kg and that of B and C is 43 kg, what is the weight of B?",
+      "options": [
+        "17 kg",
+        "20 kg",
+        "31 kg",
+        "35 kg"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Total weight of A+B+C = 45 × 3 = 135 kg. Total weight of A+B = 40 × 2 = 80 kg. Total weight of B+C = 43 × 2 = 86 kg. The weight of B is (A+B) + (B+C) - (A+B+C) = 80 + 86 - 135 = 31 kg."
+    },
+    {
+      "id": 16,
+      "category": "English Comprehension",
+      "question": "Fill in the blank: 'The ship, with its crew, ___ lost at sea.'",
+      "options": [
+        "was",
+        "were",
+        "have been",
+        "are"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The subject of the sentence is 'The ship' (singular). The phrase 'with its crew' is an interrupter and does not affect the verb agreement. Therefore, the singular verb 'was' is correct."
+    },
+    {
+      "id": 17,
+      "category": "English Comprehension",
+      "question": "The word 'infallible' means:",
+      "options": [
+        "incapable of making mistakes or being wrong.",
+        "certain to happen or unavoidable.",
+        "impossible to understand or interpret.",
+        "very expensive or costly."
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Infallible' describes someone or something that is never wrong, failing, or making a mistake."
+    },
+    {
+      "id": 18,
+      "category": "English Comprehension",
+      "question": "Choose the word that is an antonym for 'GENUINE'.",
+      "options": [
+        "Real",
+        "Authentic",
+        "Spurious",
+        "Pure"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Genuine' means authentic or real. 'Spurious' means not being what it purports to be; false or fake. The other options are synonyms."
+    },
+    {
+      "id": 19,
+      "category": "Nepali Language",
+      "question": "What is the correct Nepali word for 'sovereignty'?",
+      "options": [
+        "स्वतन्त्रता (Swatantrata)",
+        "गणतन्त्र (Ganatantra)",
+        "सार्वभौमसत्ता (Sarvabhaumsatta)",
+        "लोकतन्त्र (Lokatantra)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'सार्वभौमसत्ता' (Sarvabhaumsatta) is the term for sovereignty. 'Swatantrata' is freedom, 'Ganatantra' is republic, and 'Lokatantra' is democracy."
+    },
+    {
+      "id": 20,
+      "category": "Nepali Language",
+      "question": "In the sentence 'भाइले बहिनीलाई किताब दियो', what is the grammatical case (कारक) of 'बहिनीलाई' (bahinilai)?",
+      "options": [
+        "कर्ता (Karta - Subject)",
+        "कर्म (Karma - Object)",
+        "करण (Karan - Instrument)",
+        "सम्प्रदान (Sampradan - Dative)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The '-लाई' (-lai) suffix marks the indirect object or the recipient of the action. This is known as the Sampradan Karak (Dative Case)."
+    }
+  ]
+}

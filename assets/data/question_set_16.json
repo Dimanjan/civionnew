@@ -1,0 +1,266 @@
+{
+  "id": "set_16",
+  "title": "General Knowledge & Aptitude Test (Nepal) - Set 5",
+  "questions": [
+    {
+      "id": 1,
+      "category": "General Knowledge",
+      "question": "Who was the first king of the Gorkha Kingdom, which later unified Nepal?",
+      "options": [
+        "Prithvi Narayan Shah",
+        "Dravya Shah",
+        "Kulmandan Shah",
+        "Ram Shah"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dravya Shah, the son of Kulmandan Shah (King of Kaski), conquered the kingdom of Ligligkot and became the first king of the Gorkha Kingdom in 1559 AD, establishing the Shah dynasty in Gorkha."
+    },
+    {
+      "id": 2,
+      "category": "General Knowledge",
+      "question": "The 'Gai Jatra' festival, a carnival of humor and remembrance for the deceased, is predominantly celebrated by which community in Nepal?",
+      "options": [
+        "Tharu",
+        "Newar",
+        "Gurung",
+        "Magar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gai Jatra (the festival of cows) is one of the most popular festivals celebrated by the Newar community in the Kathmandu Valley and other parts of Nepal."
+    },
+    {
+      "id": 3,
+      "category": "General Knowledge",
+      "question": "The famous 'Panchase' area, a pilgrimage site known for its biodiversity, lies at the junction of which three districts?",
+      "options": [
+        "Kaski, Parbat, and Syangja",
+        "Kaski, Lamjung, and Tanahun",
+        "Gorkha, Lamjung, and Tanahun",
+        "Parbat, Baglung, and Myagdi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Panchase is a significant religious and ecological area located at the meeting point of Kaski, Parbat, and Syangja districts of the Gandaki Province."
+    },
+    {
+      "id": 4,
+      "category": "General Knowledge",
+      "question": "In the coat of arms of Nepal, what does the garland of rhododendrons represent?",
+      "options": [
+        "National Unity",
+        "National Flower",
+        "National Beauty",
+        "Peace"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The rhododendron (Lali Gurans) is the national flower of Nepal. The garland in the coat of arms represents this national symbol."
+    },
+    {
+      "id": 5,
+      "category": "General Knowledge",
+      "question": "What is the primary chemical component of natural gas?",
+      "options": [
+        "Ethane",
+        "Propane",
+        "Butane",
+        "Methane"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Natural gas is primarily composed of Methane (CH₄), typically accounting for 70-90% of its composition."
+    },
+    {
+      "id": 6,
+      "category": "Logical Reasoning",
+      "question": "Find the wrong number in the series: 2, 5, 10, 17, 26, 37, 50, 64.",
+      "options": [
+        "17",
+        "26",
+        "37",
+        "64"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The pattern of the series is n² + 1. (1²+1=2, 2²+1=5, 3²+1=10, ... 7²+1=50). The last term should be 8² + 1 = 65, but it is 64. So, 64 is the wrong number."
+    },
+    {
+      "id": 7,
+      "category": "Logical Reasoning",
+      "question": "In a certain code, 'TABLE' is written as 'GZYOV'. How is 'CHAIR' written in that code?",
+      "options": [
+        "XSZRI",
+        "XSZIR",
+        "YSZRI",
+        "XZSRI"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This is a reverse alphabet code (Atbash cipher), where A=Z, B=Y, C=X, etc. The reverse of C is X, H is S, A is Z, I is R, and R is I. Thus, the code is XSZIR."
+    },
+    {
+      "id": 8,
+      "category": "Logical Reasoning",
+      "question": "Moon is to Satellite as Earth is to ____?",
+      "options": [
+        "Sun",
+        "Planet",
+        "Solar System",
+        "Asteroid"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This is a classification analogy. The Moon is classified as a satellite, and the Earth is classified as a planet."
+    },
+    {
+      "id": 9,
+      "category": "Logical Reasoning",
+      "question": "Facing East, I turn 100° clockwise and then 145° anti-clockwise. Which direction am I facing now?",
+      "options": [
+        "North-East",
+        "North",
+        "South-East",
+        "West"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The net rotation is 145° (anti-clockwise) - 100° (clockwise) = 45° anti-clockwise. Starting from East, a 45° anti-clockwise turn leads to the North-East direction."
+    },
+    {
+      "id": 10,
+      "category": "Logical Reasoning",
+      "question": "Which of the following rivers is different from the others?",
+      "options": [
+        "Gandaki",
+        "Koshi",
+        "Karnali",
+        "Trishuli"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Gandaki, Koshi, and Karnali are the three major river systems of Nepal. Trishuli is a major tributary that belongs to the Gandaki river system, not a system itself."
+    },
+    {
+      "id": 11,
+      "category": "Quantitative Aptitude",
+      "question": "The average of 11 results is 60. If the average of the first six results is 58 and the last six is 63, what is the sixth result?",
+      "options": [
+        "66",
+        "65",
+        "64",
+        "62"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sum of all 11 results = 11 × 60 = 660. Sum of first 6 = 6 × 58 = 348. Sum of last 6 = 6 × 63 = 378. The sixth result = (Sum of first 6 + Sum of last 6) - Sum of all 11 = (348 + 378) - 660 = 726 - 660 = 66."
+    },
+    {
+      "id": 12,
+      "category": "Quantitative Aptitude",
+      "question": "The cost price of 20 articles is the same as the selling price of 'x' articles. If the profit is 25%, then the value of 'x' is:",
+      "options": [
+        "15",
+        "16",
+        "18",
+        "25"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Let CP of one article be Re 1. CP of 20 articles = Rs 20. This is the SP of 'x' articles. Profit is 25%, so SP of 20 articles = 20 × 1.25 = Rs 25. SP of one article = 25/20 = 1.25. Since SP of 'x' articles is Rs 20, then x = 20 / 1.25 = 16."
+    },
+    {
+      "id": 13,
+      "category": "Quantitative Aptitude",
+      "question": "The difference between simple interest on Rs. 1500 for 3 years from two sources is Rs. 13.50. What is the difference between their interest rates?",
+      "options": [
+        "0.1%",
+        "0.2%",
+        "0.3%",
+        "0.4%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Let the rates be R1 and R2. The difference in interest is (P × T × (R1-R2)) / 100. So, 13.50 = (1500 × 3 × (R1-R2)) / 100. This simplifies to 13.50 = 45 × (R1-R2). The difference in rates (R1-R2) = 13.50 / 45 = 0.3%."
+    },
+    {
+      "id": 14,
+      "category": "Quantitative Aptitude",
+      "question": "A man completes a journey in 10 hours, traveling the first half at 21 km/hr and the second half at 24 km/hr. Find the total distance of the journey.",
+      "options": [
+        "220 km",
+        "224 km",
+        "230 km",
+        "234 km"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Let the total distance be D. The time taken is (D/2)/21 + (D/2)/24 = 10. This simplifies to D/42 + D/48 = 10. Finding a common denominator: (8D + 7D) / 336 = 10. So, 15D = 3360, and D = 224 km."
+    },
+    {
+      "id": 15,
+      "category": "Quantitative Aptitude",
+      "question": "In an election with 20% invalid votes, a candidate got 55% of valid votes and won by 2000 votes. What was the total number of votes polled?",
+      "options": [
+        "20000",
+        "25000",
+        "30000",
+        "35000"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The winner got 55% of valid votes, so the loser got 45%. The difference is 10%, which equals 2000 votes. Total valid votes = 2000 × 10 = 20000. These valid votes represent 80% of total votes polled. Total votes = 20000 / 0.80 = 25000."
+    },
+    {
+      "id": 16,
+      "category": "English Comprehension",
+      "question": "What is a place where government records are kept called?",
+      "options": [
+        "Museum",
+        "Library",
+        "Archive",
+        "Hangar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "An 'Archive' is a collection of historical documents or records providing information about a place, institution, or group of people. A museum displays artifacts, a library lends books, and a hangar stores aircraft."
+    },
+    {
+      "id": 17,
+      "category": "English Comprehension",
+      "question": "Choose the correct synonym for 'MITIGATE'.",
+      "options": [
+        "Aggravate",
+        "Increase",
+        "Alleviate",
+        "Worsen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "To 'mitigate' means to make something bad less severe, serious, or painful. 'Alleviate' has the same meaning. The other options are antonyms."
+    },
+    {
+      "id": 18,
+      "category": "English Comprehension",
+      "question": "Select the correctly punctuated sentence:",
+      "options": [
+        "Its a beautiful day, isn't it.",
+        "It's a beautiful day isn't it?",
+        "It's a beautiful day, isn't it?",
+        "Its a beautiful day isn't it."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The correct sentence uses an apostrophe for the contraction 'It's', a comma to separate the statement from the tag question, and a question mark at the end."
+    },
+    {
+      "id": 19,
+      "category": "Nepali Language",
+      "question": "What is the meaning of the Nepali word 'सार्वजनिक' (saarwajanik)?",
+      "options": [
+        "Private",
+        "Public",
+        "Secret",
+        "Special"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The word 'सार्वजनिक' (saarwajanik) in Nepali means 'public' or relating to the people as a whole."
+    },
+    {
+      "id": 20,
+      "category": "Nepali Language",
+      "question": "Which of the following is an example of a Nepali interrogative pronoun (प्रश्नवाचक सर्वनाम)?",
+      "options": [
+        "यो (yo)",
+        "ऊ (u)",
+        "को (ko)",
+        "हामी (hami)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'को' (ko) means 'who' and is used to ask questions. 'Yo' (this), 'u' (he/she), and 'hami' (we) are demonstrative and personal pronouns, respectively."
+    }
+  ]
+}

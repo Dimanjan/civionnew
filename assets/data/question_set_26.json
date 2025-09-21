@@ -1,0 +1,266 @@
+{
+  "id": "set_26",
+  "title": "General Knowledge & Aptitude Test (Nepal) - Set 15",
+  "questions": [
+    {
+      "id": 1,
+      "category": "General Knowledge",
+      "question": "The first nationwide referendum (Janmat Sangraha) in Nepal was held in which year of the Bikram Sambat (BS) calendar?",
+      "options": [
+        "2007 BS",
+        "2015 BS",
+        "2036 BS",
+        "2046 BS"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The referendum was held in 2036 BS (1980 AD) to allow the people of Nepal to choose between the existing Panchayat system and a multi-party system of governance."
+    },
+    {
+      "id": 2,
+      "category": "General Knowledge",
+      "question": "'Hyatung Falls', one of the highest waterfalls in Nepal and Asia, is located in which district?",
+      "options": [
+        "Terhathum",
+        "Sankhuwasabha",
+        "Taplejung",
+        "Panchthar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Hyatung Falls (Hyatung Jharana), with a height of 365 meters, is located in the Terhathum district of Koshi Province."
+    },
+    {
+      "id": 3,
+      "category": "General Knowledge",
+      "question": "What is 'Deuda', a popular cultural tradition in the Sudurpashchim and Karnali provinces of Nepal?",
+      "options": [
+        "A type of food",
+        "A traditional folk dance and song",
+        "A religious festival",
+        "A form of handicraft"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Deuda is a unique cultural tradition where participants link arms and dance in a circle while singing narrative songs, often in a question-and-answer format."
+    },
+    {
+      "id": 4,
+      "category": "General Knowledge",
+      "question": "How many schedules (Anusuchi) are there in the Constitution of Nepal (2015)?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Constitution of Nepal has 9 schedules, which list details about the national flag, anthem, coat of arms, provinces, and various powers of the federal, provincial, and local levels."
+    },
+    {
+      "id": 5,
+      "category": "General Knowledge",
+      "question": "The headquarters of the World Intellectual Property Organization (WIPO) is located in:",
+      "options": [
+        "Paris, France",
+        "London, UK",
+        "New York, USA",
+        "Geneva, Switzerland"
+      ],
+      "correctAnswer": 3,
+      "explanation": "WIPO, one of the specialized agencies of the United Nations, has its headquarters in Geneva, Switzerland, a hub for many international organizations."
+    },
+    {
+      "id": 6,
+      "category": "Logical Reasoning",
+      "question": "Find the next number in the series: 1, 3, 7, 15, 31, ?",
+      "options": [
+        "61",
+        "63",
+        "65",
+        "67"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The pattern is to multiply the previous number by 2 and add 1. (1×2)+1=3, (3×2)+1=7, (7×2)+1=15, (15×2)+1=31. The next number is (31×2)+1 = 63."
+    },
+    {
+      "id": 7,
+      "category": "Logical Reasoning",
+      "question": "In a certain code, 'NEPAL' is written as 'MGMGE'. How is 'INDIA' written?",
+      "options": [
+        "HPAMV",
+        "HPAMU",
+        "HOAMV",
+        "HPALV"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The pattern is an alternating sequence of subtractions and additions: N-1=M, E+2=G, P-3=M, A+4=E, L-5=G. Applying this to 'INDIA': I-1=H, N+2=P, D-3=A, I+4=M, A-5=V."
+    },
+    {
+      "id": 8,
+      "category": "Logical Reasoning",
+      "question": "Chair is to Furniture as Shirt is to ____?",
+      "options": [
+        "Fabric",
+        "Clothing",
+        "Wardrobe",
+        "Tailor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This is a category analogy. A chair belongs to the category of furniture, and a shirt belongs to the category of clothing."
+    },
+    {
+      "id": 9,
+      "category": "Logical Reasoning",
+      "question": "Which of the following countries is the odd one out?",
+      "options": [
+        "Nepal",
+        "India",
+        "China",
+        "Bhutan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nepal, India, and Bhutan are all members of the South Asian Association for Regional Cooperation (SAARC). China is not a member of SAARC."
+    },
+    {
+      "id": 10,
+      "category": "Logical Reasoning",
+      "question": "M, N, O, P, and Q are five boys sitting in a circle. O is sitting between M and Q. N is to the immediate right of Q. Who is sitting to the immediate left of P?",
+      "options": [
+        "M",
+        "N",
+        "O",
+        "Q"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The clockwise arrangement is M, O, Q, N, P. In this circle, the person sitting to the immediate left of P is N."
+    },
+    {
+      "id": 11,
+      "category": "Quantitative Aptitude",
+      "question": "A student multiplied a number by 3/5 instead of 5/3. What is the percentage error in the calculation?",
+      "options": [
+        "36%",
+        "44%",
+        "54%",
+        "64%"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Let the number be 15. The correct answer is (5/3)×15 = 25. The incorrect answer is (3/5)×15 = 9. The error is 25 - 9 = 16. The percentage error is (Error / Correct Answer) × 100 = (16 / 25) × 100 = 64%."
+    },
+    {
+      "id": 12,
+      "category": "Quantitative Aptitude",
+      "question": "A trader marks his goods at 20% above the cost price and allows a discount of 10%. His gain percent is:",
+      "options": [
+        "8%",
+        "10%",
+        "12%",
+        "15%"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Let the Cost Price (CP) be 100. The Marked Price (MP) is 120. A 10% discount on 120 is 12. The Selling Price (SP) is 120 - 12 = 108. The gain is 108 - 100 = 8. The gain percent is 8%."
+    },
+    {
+      "id": 13,
+      "category": "Quantitative Aptitude",
+      "question": "A sum of money becomes 6/5 of itself in 2 years at a certain rate of simple interest. The rate per annum is:",
+      "options": [
+        "5%",
+        "8%",
+        "10%",
+        "12%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Let the Principal (P) be 5. The Amount is 6. The Simple Interest (SI) is 6 - 5 = 1. Using the formula Rate = (SI × 100) / (P × Time), we get Rate = (1 × 100) / (5 × 2) = 100 / 10 = 10%."
+    },
+    {
+      "id": 14,
+      "category": "Quantitative Aptitude",
+      "question": "Excluding stoppages, the speed of a bus is 54 km/hr, and including stoppages, it is 45 km/hr. For how many minutes does the bus stop per hour?",
+      "options": [
+        "9",
+        "10",
+        "12",
+        "20"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Due to stoppages, the bus covers 9 km less per hour (54 - 45). The time taken to cover 9 km at the actual speed of 54 km/hr is (Distance / Speed) = (9 / 54) hours = (1/6) hours. Converting to minutes: (1/6) × 60 = 10 minutes."
+    },
+    {
+      "id": 15,
+      "category": "Quantitative Aptitude",
+      "question": "The average of 20 numbers is zero. Of them, at the most, how many may be greater than zero?",
+      "options": [
+        "0",
+        "1",
+        "10",
+        "19"
+      ],
+      "correctAnswer": 3,
+      "explanation": "For the average to be zero, the sum of all numbers must be zero. It is possible for 19 numbers to be positive, and their sum can be cancelled out by one single large negative number to make the total sum zero."
+    },
+    {
+      "id": 16,
+      "category": "English Comprehension",
+      "question": "Fill in the blank: 'If I ___ a bird, I would fly.'",
+      "options": [
+        "was",
+        "am",
+        "were",
+        "had been"
+      ],
+      "correctAnswer": 2,
+      "explanation": "This sentence expresses a hypothetical or contrary-to-fact situation, which requires the use of the subjunctive mood. The subjunctive form for this case is 'were'."
+    },
+    {
+      "id": 17,
+      "category": "English Comprehension",
+      "question": "The word 'fatal' means:",
+      "options": [
+        "causing death.",
+        "relating to fate or destiny.",
+        "very important and decisive.",
+        "slightly injurious or harmful."
+      ],
+      "correctAnswer": 0,
+      "explanation": "In a medical or general context, 'fatal' means causing or leading to death. A fatal accident or a fatal illness is one that results in death."
+    },
+    {
+      "id": 18,
+      "category": "English Comprehension",
+      "question": "Choose the word most similar in meaning to 'ABANDON'.",
+      "options": [
+        "Keep",
+        "Forsake",
+        "Cherish",
+        "Adopt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "To 'abandon' means to desert or give up completely. 'Forsake' has the same meaning of leaving someone or something entirely."
+    },
+    {
+      "id": 19,
+      "category": "Nepali Language",
+      "question": "What is the correct Nepali word for 'revenue'?",
+      "options": [
+        "कर (Kar)",
+        "शुल्क (Shulka)",
+        "राजस्व (Rajaswa)",
+        "आम्दानी (Aamdani)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The official term for government revenue is 'राजस्व' (Rajaswa). 'Kar' is tax, 'Shulka' is a fee, and 'Aamdani' is general income."
+    },
+    {
+      "id": 20,
+      "category": "Nepali Language",
+      "question": "Which of the following is a compound word (समस्त शब्द)?",
+      "options": [
+        "घर (ghar)",
+        "भाई (bhai)",
+        "भान्साघर (bhansaghar)",
+        "राम (ram)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'भान्साघर' (bhansaghar - kitchen) is a compound word formed by combining two separate words: 'भान्सा' (bhansa - cooking area) and 'घर' (ghar - house)."
+    }
+  ]
+}

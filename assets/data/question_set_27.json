@@ -1,0 +1,266 @@
+{
+  "id": "set_27",
+  "title": "General Knowledge & Aptitude Test (Nepal) - Set 16",
+  "questions": [
+    {
+      "id": 1,
+      "category": "General Knowledge",
+      "question": "Who was the Prime Minister of Nepal when the Kot Massacre (Kot Parva) took place in 1846 AD, leading to the rise of the Rana regime?",
+      "options": [
+        "Ranga Nath Poudyal",
+        "Fateh Jung Shah",
+        "Mathabar Singh Thapa",
+        "Sher Bahadur Shah"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fateh Jung Shah was the Prime Minister when the Kot Massacre occurred. He was killed during the incident, which was orchestrated by Jung Bahadur Rana, who then seized power."
+    },
+    {
+      "id": 2,
+      "category": "General Knowledge",
+      "question": "The Kaligandaki Gorge, one of the deepest in the world, lies between which two Himalayan massifs?",
+      "options": [
+        "Everest and Lhotse",
+        "Annapurna and Dhaulagiri",
+        "Manaslu and Himalchuli",
+        "Kanchenjunga and Makalu"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Kaligandaki River flows through a spectacular gorge that separates the major peaks of Dhaulagiri (8,167 m) to the west and Annapurna (8,091 m) to the east."
+    },
+    {
+      "id": 3,
+      "category": "General Knowledge",
+      "question": "What is 'Teej' in the context of Nepali culture?",
+      "options": [
+        "A festival celebrated by women",
+        "A traditional Newari dish",
+        "A historical monument",
+        "A type of folk music"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Teej is a major three-day-long Hindu festival celebrated by women in Nepal and some parts of India, praying for marital bliss, the well-being of their spouse and children, and purification of their own body and soul."
+    },
+    {
+      "id": 4,
+      "category": "General Knowledge",
+      "question": "In the National Assembly (Rashtriya Sabha) of Nepal, how many members are elected from each of the seven provinces?",
+      "options": [
+        "3",
+        "5",
+        "8",
+        "10"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The National Assembly has 59 members. Of these, 56 are elected, with each of the seven provinces electing 8 members through an electoral college. The remaining 3 are nominated by the President."
+    },
+    {
+      "id": 5,
+      "category": "General Knowledge",
+      "question": "The headquarters of the Food and Agriculture Organization (FAO) is located in which city?",
+      "options": [
+        "Rome, Italy",
+        "Paris, France",
+        "Geneva, Switzerland",
+        "Vienna, Austria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The FAO, a specialized agency of the United Nations that leads international efforts to defeat hunger, is headquartered in Rome, Italy."
+    },
+    {
+      "id": 6,
+      "category": "Logical Reasoning",
+      "question": "Find the next number in the series: 8, 24, 12, 36, 18, 54, ?",
+      "options": [
+        "27",
+        "60",
+        "72",
+        "108"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The pattern is a sequence of two alternating operations: multiply by 3, then divide by 2. 8×3=24, 24÷2=12, 12×3=36, 36÷2=18, 18×3=54. The next operation is 54÷2 = 27."
+    },
+    {
+      "id": 7,
+      "category": "Logical Reasoning",
+      "question": "In a certain code, 'FLOWER' is written as 'EMNXDS'. How is 'GARDEN' written?",
+      "options": [
+        "FBQEDO",
+        "GBQEDO",
+        "FBQDEO",
+        "FAQEDO"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The pattern is an alternating sequence of operations on the letter's position: -1, +1, -1, +1, etc. F-1=E, L+1=M, O-1=N, W+1=X, E-1=D, R+1=S. Applying this to 'GARDEN': G-1=F, A+1=B, R-1=Q, D+1=E, E-1=D, N+1=O."
+    },
+    {
+      "id": 8,
+      "category": "Logical Reasoning",
+      "question": "Scalpel is to Surgeon as Telescope is to ____?",
+      "options": [
+        "Doctor",
+        "Patient",
+        "Astronomer",
+        "Star"
+      ],
+      "correctAnswer": 2,
+      "explanation": "This is an analogy of a professional and their primary tool. A scalpel is a key instrument used by a surgeon, just as a telescope is a key instrument used by an astronomer."
+    },
+    {
+      "id": 9,
+      "category": "Logical Reasoning",
+      "question": "Which of the following is the odd one out?",
+      "options": [
+        "Iron",
+        "Steel",
+        "Silver",
+        "Gold"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Steel is an alloy, which is a mixture of iron and carbon (and sometimes other elements). Iron, Silver, and Gold are all pure metallic elements."
+    },
+    {
+      "id": 10,
+      "category": "Logical Reasoning",
+      "question": "Six friends are in a circle. Deepa is between Prakash and Pankaj. Priti is between Mukesh and Lalit. Prakash and Mukesh are opposite each other. Who sits to the immediate right of Priti?",
+      "options": [
+        "Mukesh",
+        "Lalit",
+        "Prakash",
+        "Pankaj"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The clockwise arrangement that satisfies all conditions is: Prakash, Deepa, Pankaj, Mukesh, Priti, Lalit. Therefore, Lalit is sitting to the immediate right of Priti."
+    },
+    {
+      "id": 11,
+      "category": "Quantitative Aptitude",
+      "question": "A man spends 35% of his income on food, 25% on education, and 80% of the remaining on rent. What percent of his income is he left with?",
+      "options": [
+        "8%",
+        "10%",
+        "12%",
+        "14%"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Initial spending on food and education is 35% + 25% = 60%. The remaining income is 40%. He spends 80% of this remainder on rent, which is 0.80 × 40% = 32% of his total income. His total spending is 60% + 32% = 92%. Thus, he is left with 100% - 92% = 8%."
+    },
+    {
+      "id": 12,
+      "category": "Quantitative Aptitude",
+      "question": "An article's cost price is 80% of its marked price. What is the gain percent after allowing a 12% discount on the marked price?",
+      "options": [
+        "10%",
+        "12%",
+        "15%",
+        "20%"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Let the Marked Price (MP) be 100. The Cost Price (CP) is 80. A 12% discount on the MP means the Selling Price (SP) is 100 - 12 = 88. The gain is SP - CP = 88 - 80 = 8. The gain percent is (Gain / CP) × 100 = (8 / 80) × 100 = 10%."
+    },
+    {
+      "id": 13,
+      "category": "Quantitative Aptitude",
+      "question": "The difference between compound interest and simple interest on a sum for 2 years at 4% per annum is Re. 1. The sum is:",
+      "options": [
+        "Rs. 600",
+        "Rs. 625",
+        "Rs. 650",
+        "Rs. 675"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The formula for the difference for 2 years is P(R/100)². So, 1 = P(4/100)². This gives 1 = P(1/25)², which simplifies to 1 = P/625. Therefore, the principal (P) is Rs. 625."
+    },
+    {
+      "id": 14,
+      "category": "Quantitative Aptitude",
+      "question": "Two men start walking together, one at 4 km/hr and another at 3 km/hr. The former arrives half an hour before the latter. Find the distance.",
+      "options": [
+        "6 km",
+        "7 km",
+        "8 km",
+        "9 km"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Let the distance be D. The time difference is (D/3) - (D/4) = 0.5 hours. Finding a common denominator: (4D - 3D) / 12 = 0.5. This simplifies to D/12 = 0.5. Therefore, D = 6 km."
+    },
+    {
+      "id": 15,
+      "category": "Quantitative Aptitude",
+      "question": "The average of ten numbers is 7. If each number is multiplied by 12, what is the new average?",
+      "options": [
+        "7",
+        "19",
+        "82",
+        "84"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A key property of averages is that if every number in a set is multiplied by a constant, the average of the new set is also multiplied by that same constant. New average = 7 × 12 = 84."
+    },
+    {
+      "id": 16,
+      "category": "English Comprehension",
+      "question": "Fill in the blank: 'The committee ___ divided in their opinions.'",
+      "options": [
+        "is",
+        "has",
+        "was",
+        "were"
+      ],
+      "correctAnswer": 3,
+      "explanation": "When the members of a collective noun (like committee) are acting as individuals (as indicated by 'divided opinions'), a plural verb is used. Therefore, 'were' is correct."
+    },
+    {
+      "id": 17,
+      "category": "English Comprehension",
+      "question": "A 'cosmopolitan' person is one who:",
+      "options": [
+        "is familiar with and at ease in many different countries and cultures.",
+        "studies the origin and structure of the universe.",
+        "lives in a small, isolated town with a local worldview.",
+        "is very nationalistic and patriotic."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The term 'cosmopolitan' describes a person who feels at home all over the world and is free from local or national prejudices."
+    },
+    {
+      "id": 18,
+      "category": "English Comprehension",
+      "question": "Choose the word that is an antonym for 'CONCISE'.",
+      "options": [
+        "Brief",
+        "Terse",
+        "Succinct",
+        "Verbose"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Concise' means giving a lot of information clearly and in a few words. 'Verbose' means using more words than are needed, making it the opposite. The other options are synonyms."
+    },
+    {
+      "id": 19,
+      "category": "Nepali Language",
+      "question": "What is the correct Nepali word for 'diplomacy'?",
+      "options": [
+        "राजनीति (Rajniti)",
+        "परराष्ट्र (Pararastra)",
+        "कूटनीति (Kutniti)",
+        "सम्बन्ध (Sambandha)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The term for diplomacy is 'कूटनीति' (Kutniti). 'Rajniti' is politics, 'Pararastra' is foreign affairs, and 'Sambandha' is relation."
+    },
+    {
+      "id": 20,
+      "category": "Nepali Language",
+      "question": "What is the gender (लिङ्ग) of the word 'गाई' (gai)?",
+      "options": [
+        "पुलिङ्ग (Puling - Masculine)",
+        "स्त्रीलिङ्ग (Striling - Feminine)",
+        "नपुंसकलिङ्ग (Napunsakling - Neuter)",
+        "उभयलिङ्ग (Ubhayeling - Common)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The word 'गाई' (gai) means 'cow' and is a feminine noun, so its gender is स्त्रीलिङ्ग (Striling). The masculine counterpart is 'गोरु' (goru - ox)."
+    }
+  ]
+}

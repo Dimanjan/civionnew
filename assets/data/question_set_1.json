@@ -1,0 +1,32 @@
+{
+  "id": "set_1",
+  "title": "Question Set 1",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Nepali Constitution",
+      "question": "According to the Constitution of Nepal 2072, how many fundamental rights are guaranteed to Nepali citizens?",
+      "options": [
+        "25 fundamental rights",
+        "31 fundamental rights", 
+        "35 fundamental rights",
+        "40 fundamental rights"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Constitution of Nepal 2072 guarantees 31 fundamental rights to Nepali citizens under Article 16-46."
+    },
+    {
+      "id": 2,
+      "category": "General Knowledge",
+      "question": "Which is the highest peak in Nepal?",
+      "options": [
+        "Mount Everest",
+        "Kanchenjunga",
+        "Lhotse",
+        "Makalu"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mount Everest (Sagarmatha) is the highest peak in Nepal and the world, standing at 8,848.86 meters above sea level."
+    }
+  ]
+} 

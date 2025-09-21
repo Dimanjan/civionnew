@@ -1,0 +1,32 @@
+{
+  "id": "set_5",
+  "title": "Question Set 5",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Literature",
+      "question": "Who is known as the 'Father of Nepali Literature'?",
+      "options": [
+        "Bhanubhakta Acharya",
+        "Laxmi Prasad Devkota",
+        "Bal Krishna Sama",
+        "Gopal Prasad Rimal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Bhanubhakta Acharya is known as the 'Father of Nepali Literature' for his translation of Ramayana into Nepali."
+    },
+    {
+      "id": 2,
+      "category": "Sports",
+      "question": "Which is the national game of Nepal?",
+      "options": [
+        "Football",
+        "Cricket",
+        "Dandi Biyo",
+        "Kabaddi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dandi Biyo is the national game of Nepal, a traditional game played with sticks and a small wooden piece."
+    }
+  ]
+} 
