@@ -99,18 +99,10 @@ class _HomeScreenState extends State<HomeScreen> {
                             
                             // Logo
                             Container(
-                              width: 80,
-                              height: 80,
+                              width: 100,
+                              height: 100,
                               decoration: BoxDecoration(
-                                gradient: const LinearGradient(
-                                  begin: Alignment.topLeft,
-                                  end: Alignment.bottomRight,
-                                  colors: [
-                                    Color(0xFF00BCD4),
-                                    Color(0xFF0097A7),
-                                  ],
-                                ),
-                                borderRadius: BorderRadius.circular(20),
+                                borderRadius: BorderRadius.circular(25),
                                 boxShadow: [
                                   BoxShadow(
                                     color: const Color(0xFF00BCD4).withOpacity(0.3),
@@ -119,14 +111,39 @@ class _HomeScreenState extends State<HomeScreen> {
                                   ),
                                 ],
                               ),
-                              child: const Center(
-                                child: Text(
-                                  'C',
-                                  style: TextStyle(
-                                    fontSize: 36,
-                                    fontWeight: FontWeight.bold,
-                                    color: Colors.white,
-                                  ),
+                              child: ClipRRect(
+                                borderRadius: BorderRadius.circular(25),
+                                child: Image.asset(
+                                  'assets/civion512.jpg',
+                                  width: 100,
+                                  height: 100,
+                                  fit: BoxFit.cover,
+                                  errorBuilder: (context, error, stackTrace) {
+                                    // Fallback to letter C if image fails to load
+                                    return Container(
+                                      decoration: BoxDecoration(
+                                        gradient: const LinearGradient(
+                                          begin: Alignment.topLeft,
+                                          end: Alignment.bottomRight,
+                                          colors: [
+                                            Color(0xFF00BCD4),
+                                            Color(0xFF0097A7),
+                                          ],
+                                        ),
+                                        borderRadius: BorderRadius.circular(25),
+                                      ),
+                                      child: const Center(
+                                        child: Text(
+                                          'C',
+                                          style: TextStyle(
+                                            fontSize: 40,
+                                            fontWeight: FontWeight.bold,
+                                            color: Colors.white,
+                                          ),
+                                        ),
+                                      ),
+                                    );
+                                  },
                                 ),
                               ),
                             ),
@@ -312,18 +329,6 @@ class _HomeScreenState extends State<HomeScreen> {
                                                     ),
                                                   ),
                                                 ),
-                                                const SizedBox(height: 8),
-                                                if (!isEmpty)
-                                                  Row(
-                                                    mainAxisAlignment: MainAxisAlignment.end,
-                                                    children: [
-                                                      Icon(
-                                                        Icons.arrow_forward_ios,
-                                                        size: 14,
-                                                        color: Colors.white.withOpacity(0.6),
-                                                      ),
-                                                    ],
-                                                  ),
                                               ],
                                             ),
                                           ),
@@ -340,25 +345,11 @@ class _HomeScreenState extends State<HomeScreen> {
                       ),
                     ),
                     
-                    // Footer
+                    // Footer with just spacing
                     const SliverToBoxAdapter(
                       child: Padding(
                         padding: EdgeInsets.all(24.0),
-                        child: Column(
-                          children: [
-                            SizedBox(height: 20),
-                            Text(
-                              'WWW.CIVION.APP',
-                              style: TextStyle(
-                                fontSize: 14,
-                                fontWeight: FontWeight.w400,
-                                color: Colors.white,
-                                letterSpacing: 2,
-                              ),
-                            ),
-                            SizedBox(height: 40),
-                          ],
-                        ),
+                        child: SizedBox(height: 40),
                       ),
                     ),
                   ],

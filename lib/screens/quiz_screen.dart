@@ -49,9 +49,13 @@ class _QuizScreenState extends State<QuizScreen> {
 
   void submitQuiz() {
     int correct = 0;
+    int attempted = 0;
     for (int i = 0; i < widget.questionSet.questions.length; i++) {
-      if (userAnswers[i] == widget.questionSet.questions[i].correctAnswer) {
-        correct++;
+      if (userAnswers[i] != null) {
+        attempted++;
+        if (userAnswers[i] == widget.questionSet.questions[i].correctAnswer) {
+          correct++;
+        }
       }
     }
     setState(() {
@@ -73,7 +77,6 @@ class _QuizScreenState extends State<QuizScreen> {
   Widget build(BuildContext context) {
     final currentQuestion = widget.questionSet.questions[currentQuestionIndex];
     final isLastQuestion = currentQuestionIndex == widget.questionSet.questions.length - 1;
-    final allQuestionsAnswered = userAnswers.every((answer) => answer != null);
     final progress = (currentQuestionIndex + 1) / widget.questionSet.questions.length;
 
     return Scaffold(
@@ -93,7 +96,7 @@ class _QuizScreenState extends State<QuizScreen> {
         child: CustomScrollView(
           slivers: [
             SliverAppBar(
-              expandedHeight: 120,
+              expandedHeight: 160,
               floating: false,
               pinned: true,
               backgroundColor: Colors.transparent,
@@ -126,24 +129,67 @@ class _QuizScreenState extends State<QuizScreen> {
                     child: Column(
                       mainAxisAlignment: MainAxisAlignment.end,
                       children: [
+                        // Civion branding with more spacing
                         Container(
-                          margin: const EdgeInsets.only(bottom: 20),
+                          margin: const EdgeInsets.only(bottom: 40),
                           padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
                           decoration: BoxDecoration(
                             color: Colors.white.withOpacity(0.2),
                             borderRadius: BorderRadius.circular(20),
                           ),
-                          child: const Text(
-                            'CIVION',
-                            style: TextStyle(
-                              color: Colors.white,
-                              fontWeight: FontWeight.bold,
-                              letterSpacing: 2,
-                            ),
+                          child: Row(
+                            mainAxisSize: MainAxisSize.min,
+                            children: [
+                              // Small logo
+                              Container(
+                                width: 24,
+                                height: 24,
+                                decoration: BoxDecoration(
+                                  borderRadius: BorderRadius.circular(6),
+                                ),
+                                child: ClipRRect(
+                                  borderRadius: BorderRadius.circular(6),
+                                  child: Image.asset(
+                                    'assets/civion512.jpg',
+                                    width: 24,
+                                    height: 24,
+                                    fit: BoxFit.cover,
+                                    errorBuilder: (context, error, stackTrace) {
+                                      return Container(
+                                        decoration: BoxDecoration(
+                                          color: Colors.white.withOpacity(0.3),
+                                          borderRadius: BorderRadius.circular(6),
+                                        ),
+                                        child: const Center(
+                                          child: Text(
+                                            'C',
+                                            style: TextStyle(
+                                              fontSize: 12,
+                                              fontWeight: FontWeight.bold,
+                                              color: Colors.white,
+                                            ),
+                                          ),
+                                        ),
+                                      );
+                                    },
+                                  ),
+                                ),
+                              ),
+                              const SizedBox(width: 8),
+                              const Text(
+                                'CIVION',
+                                style: TextStyle(
+                                  color: Colors.white,
+                                  fontWeight: FontWeight.bold,
+                                  letterSpacing: 2,
+                                ),
+                              ),
+                            ],
                           ),
                         ),
+                        // Question counter with more spacing
                         Container(
-                          margin: const EdgeInsets.only(bottom: 20),
+                          margin: const EdgeInsets.only(bottom: 40),
                           padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
                           decoration: BoxDecoration(
                             color: Colors.white.withOpacity(0.2),
@@ -333,7 +379,7 @@ class _QuizScreenState extends State<QuizScreen> {
                         
                         if (!showResults)
                           FilledButton.icon(
-                            onPressed: isLastQuestion && allQuestionsAnswered ? submitQuiz : nextQuestion,
+                            onPressed: isLastQuestion ? submitQuiz : nextQuestion,
                             icon: Icon(isLastQuestion ? Icons.check : Icons.arrow_forward),
                             label: Text(isLastQuestion ? 'Submit Quiz' : 'Next'),
                           )
@@ -380,7 +426,7 @@ class _QuizScreenState extends State<QuizScreen> {
                             ),
                             const SizedBox(height: 12),
                             Text(
-                              'You scored $correctAnswers out of ${widget.questionSet.questions.length}',
+                              'You scored $correctAnswers out of ${userAnswers.where((answer) => answer != null).length} attempted',
                               style: const TextStyle(
                                 fontSize: 18,
                                 fontWeight: FontWeight.w600,
@@ -389,7 +435,15 @@ class _QuizScreenState extends State<QuizScreen> {
                             ),
                             const SizedBox(height: 8),
                             Text(
-                              'Percentage: ${((correctAnswers / widget.questionSet.questions.length) * 100).toStringAsFixed(1)}%',
+                              'Total Questions: ${widget.questionSet.questions.length}',
+                              style: const TextStyle(
+                                fontSize: 16,
+                                color: Colors.white,
+                              ),
+                            ),
+                            const SizedBox(height: 8),
+                            Text(
+                              'Percentage: ${userAnswers.where((answer) => answer != null).length > 0 ? ((correctAnswers / userAnswers.where((answer) => answer != null).length) * 100).toStringAsFixed(1) : '0.0'}%',
                               style: const TextStyle(
                                 fontSize: 16,
                                 color: Colors.white,
